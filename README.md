@@ -14,6 +14,17 @@
 
 > 게임 파일을 배포하지 않습니다. 내 컴퓨터에 설치된 게임에 번역을 적용하는 방식이라 게임 데이터와 세이브는 그대로입니다.
 
+## 스크린샷
+
+![한글패치를 적용한 Stats 화면](docs/screenshots/stats.png)
+*Stats 화면: 사이드바, 능력치, 배율 항목이 한국어로 표시됩니다.*
+
+![한글패치를 적용한 게임 내 문서](docs/screenshots/documentation.png)
+*게임 내 문서도 한국어로 읽을 수 있습니다.*
+
+![한글패치를 적용한 프로그램 만들기 화면](docs/screenshots/create-program.png)
+*프로그램 만들기 화면.*
+
 ## 3분 설치
 
 1. **[여기를 눌러 `bitburner-ko.zip`을 받고](https://github.com/titato-water/Bitburner-Korean-Patch/releases/latest/download/bitburner-ko.zip) 압축을 풉니다.** (약 40MB, 따로 설치할 프로그램은 없습니다.)

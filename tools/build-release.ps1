@@ -36,7 +36,7 @@ try {
   }
 
   # 3) 배포용 파일 복사 (.git, 개발용 폴더와 이전 빌드 결과 제외)
-  $exclude = '.git', '.gitignore', '.gitattributes', 'work', 'dist', 'node'
+  $exclude = '.git', '.gitignore', '.gitattributes', 'work', 'dist', 'node', 'docs'
   Get-ChildItem $root -Force | Where-Object { $_.Name -notin $exclude } |
     Copy-Item -Destination $stage -Recurse -Force
 
