@@ -1,0 +1,3758 @@
+{
+ "84fa11b6c77c": {
+  "en": "Source Genesis",
+  "kind": "string",
+  "ko": "Source Genesis",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "a5471a6d2f8c": {
+  "en": "The original BitNode",
+  "kind": "string",
+  "ko": "최초의 비트노드",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f7e9557609ff": {
+  "en": "This is the first BitNode created by the Enders to imprison the minds of humans. It became the prototype and testing ground for all of the BitNodes that followed.",
+  "kind": "string",
+  "ko": "Enders가 인간의 정신을 가두려고 만든 첫 번째 비트노드입니다. 이후의 모든 비트노드의 원형이자 시험장이 되었습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "21acf2bbe1f4": {
+  "en": "This is the first BitNode that you play through. It has no special modifications or mechanics.",
+  "kind": "string",
+  "ko": "처음으로 플레이하는 비트노드입니다. 특별한 변경 사항이나 메커니즘이 없습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "8677c6065225": {
+  "en": "Destroying this BitNode will give you Source-File 1, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 1을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "9c218fa34b95": {
+  "en": "This Source-File lets the player start with 32GB of RAM on their home computer when entering a new BitNode and increases all of the player's multipliers by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 새 비트노드에 들어갈 때 홈 컴퓨터의 RAM 32GB로 시작하게 해 주며, 플레이어의 모든 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "9b9cb4825e45": {
+  "en": "Level 1: 16%",
+  "kind": "string",
+  "ko": "레벨 1: 16%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "1d7b36bac6cf": {
+  "en": "Level 2: 24%",
+  "kind": "string",
+  "ko": "레벨 2: 24%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "dd4927da949e": {
+  "en": "Level 3: 28%",
+  "kind": "string",
+  "ko": "레벨 3: 28%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3306ddaa247b": {
+  "en": "Rise of the Underworld",
+  "kind": "string",
+  "ko": "Rise of the Underworld",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "4a14b3e54b7d": {
+  "en": "From the shadows, they rose",
+  "kind": "string",
+  "ko": "그림자 속에서 그들이 일어섰다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "86484034f2b8": {
+  "en": "Organized crime groups quickly filled the void of power left behind from the collapse of Western government in the 2050s. As society and civilization broke down, people quickly succumbed to the innate human impulse of evil and savagery. The organized crime factions quickly rose to the top of the modern world.",
+  "kind": "string",
+  "ko": "2050년대 서구 정부의 붕괴로 생긴 권력 공백을 조직 범죄 집단이 빠르게 채웠습니다. 사회와 문명이 무너지면서 사람들은 악과 야만이라는 타고난 인간의 충동에 금세 굴복했습니다. 조직 범죄 팩션은 곧 현대 세계의 정점에 올랐습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "2361c17e351a": {
+  "en": "Certain factions (",
+  "kind": "string",
+  "ko": "일부 팩션(",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "8278d2adba76": {
+  "en": ", and",
+  "kind": "string",
+  "ko": ", ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d763b3bc3ccb": {
+  "en": ") give the player the ability to form and manage their own gang, which can earn the player money and reputation with the corresponding faction. The gang faction offers more augmentations than other factions, and in BitNode-2, it offers The Red Pill.",
+  "kind": "string",
+  "ko": ")은 플레이어가 자신만의 갱을 만들고 관리할 수 있게 해 주며, 갱은 해당 팩션에서의 돈과 평판을 벌어 줄 수 있습니다. 갱 팩션은 다른 팩션보다 더 많은 증강을 제공하며, 비트노드-2에서는 The Red Pill을 제공합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c88fb72f50de": {
+  "en": "Destroying this BitNode will give you Source-File 2, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 2를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f3dc0c4b2c63": {
+  "en": "This Source-File allows you to form gangs in other BitNodes once your karma decreases to a certain value. It also increases your crime success rate, crime money, and charisma multipliers by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 카르마가 일정 값까지 내려가면 다른 비트노드에서도 갱을 만들 수 있게 해 줍니다. 또한 범죄 성공률, 범죄 수익, 카리스마 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f41e92cb2aa3": {
+  "en": "Level 1: 24%",
+  "kind": "string",
+  "ko": "레벨 1: 24%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e13efa320649": {
+  "en": "Level 2: 36%",
+  "kind": "string",
+  "ko": "레벨 2: 36%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "a222e39b507d": {
+  "en": "Level 3: 42%",
+  "kind": "string",
+  "ko": "레벨 3: 42%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "7186b973208e": {
+  "en": "Corporatocracy",
+  "kind": "string",
+  "ko": "Corporatocracy",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c85dcdd4bac4": {
+  "en": "The Price of Civilization",
+  "kind": "string",
+  "ko": "문명의 대가",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d74bee0f738d": {
+  "en": "Our greatest illusion is that a healthy society can revolve around a single-minded pursuit of wealth.",
+  "kind": "string",
+  "ko": "우리의 가장 큰 착각은 건강한 사회가 오로지 부를 향한 외곬의 추구를 중심으로 돌아갈 수 있다는 것입니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "71bff5cc108c": {
+  "en": "Sometime in the early 21st century, economic and political globalization turned the world into a corporatocracy, and it never looked back. Now, the privileged elite will happily bankrupt their own countrymen, decimate their own community, and evict their neighbors from houses in their desperate bid to increase their wealth.",
+  "kind": "string",
+  "ko": "21세기 초 어느 시점에 경제적, 정치적 세계화가 세상을 기업 지배 체제로 바꿔 놓았고 다시는 돌아보지 않았습니다. 이제 특권 엘리트들은 부를 늘리려는 필사적인 시도에서 자국민을 파산시키고, 자신의 공동체를 황폐화하고, 이웃을 집에서 쫓아내는 일도 기꺼이 합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "2490ff3ecb94": {
+  "en": "In this BitNode, you can create and manage your own corporation. Running a successful corporation has the potential to generate massive profits.",
+  "kind": "string",
+  "ko": "이 비트노드에서는 자신의 기업을 만들고 관리할 수 있습니다. 기업을 성공적으로 운영하면 막대한 이익을 낼 가능성이 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "33d9f8035dba": {
+  "en": "Destroying this BitNode will give you Source-File 3, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 3을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "7e86b7470322": {
+  "en": "This Source-File lets you create corporations on other BitNodes (although some BitNodes will disable this mechanic) and level 3 permanently unlocks the full API. This Source-File also increases your charisma and company salary multipliers by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 다른 비트노드에서도 기업을 만들 수 있게 해 주며(일부 비트노드는 이 메커니즘을 비활성화합니다) 레벨 3에서는 전체 API가 영구적으로 해금됩니다. 또한 카리스마와 회사 급여 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "18b21baaf6a3": {
+  "en": "Level 1: 8%",
+  "kind": "string",
+  "ko": "레벨 1: 8%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f15e4c36f78d": {
+  "en": "Level 2: 12%",
+  "kind": "string",
+  "ko": "레벨 2: 12%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "38721b290e74": {
+  "en": "Level 3: 14%",
+  "kind": "string",
+  "ko": "레벨 3: 14%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "2fef670c1182": {
+  "en": "The Singularity",
+  "kind": "string",
+  "ko": "The Singularity",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e505105c7375": {
+  "en": "The Man and the Machine",
+  "kind": "string",
+  "ko": "인간과 기계",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5b6777830c5d": {
+  "en": "The Singularity has arrived. The human race is gone, replaced by artificially super intelligent beings that are more machine than man.",
+  "kind": "string",
+  "ko": "특이점이 도래했습니다. 인류는 사라지고, 인간보다 기계에 가까운 인공 초지능 존재들이 그 자리를 대신했습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "cb57cc9957c4": {
+  "en": "In this BitNode, you will gain access to a new set of Netscript functions known as Singularity functions. These functions allow you to control most aspects of the game through scripts, including working for factions/companies, purchasing/installing augmentations, and creating programs.",
+  "kind": "string",
+  "ko": "이 비트노드에서는 싱귤래러티 함수라는 새로운 Netscript 함수 집합에 접근할 수 있습니다. 이 함수들로 팩션/회사에서 일하기, 증강 구매/설치, 프로그램 생성 등 게임의 대부분의 측면을 스크립트로 제어할 수 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "41dd4584bd86": {
+  "en": "Destroying this BitNode will give you Source-File 4, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 4를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "165b13656a29": {
+  "en": "This Source-File lets you access and use the Singularity functions outside of this BitNode. Each level of this Source-File reduces the RAM cost of singularity functions in other BitNodes:",
+  "kind": "string",
+  "ko": "이 소스 파일은 이 비트노드 밖에서도 싱귤래러티 함수에 접근하고 쓸 수 있게 해 줍니다. 이 소스 파일의 레벨마다 다른 비트노드에서 싱귤래러티 함수의 RAM 비용이 줄어듭니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5e153e736ba3": {
+  "en": "Level 1: 16x",
+  "kind": "string",
+  "ko": "레벨 1: 16배",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b91c4553a2b9": {
+  "en": "Level 2: 4x",
+  "kind": "string",
+  "ko": "레벨 2: 4배",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e74587c586be": {
+  "en": "Level 3: 1x",
+  "kind": "string",
+  "ko": "레벨 3: 1배",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "4add517d26cf": {
+  "en": "Artificial Intelligence",
+  "kind": "string",
+  "ko": "Artificial Intelligence",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d017f4f996c1": {
+  "en": "Posthuman",
+  "kind": "string",
+  "ko": "포스트휴먼",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c2311d162447": {
+  "en": "They said it couldn't be done. They said the human brain, along with its consciousness and intelligence, couldn't be replicated. They said the complexity of the brain results from unpredictable, nonlinear interactions that couldn't be modeled by 1's and 0's. They were wrong.",
+  "kind": "string",
+  "ko": "그들은 불가능하다고 했습니다. 인간의 뇌와 그 의식과 지능은 복제할 수 없다고 했습니다. 뇌의 복잡성은 예측할 수 없는 비선형적 상호작용에서 나오므로 1과 0으로는 모델링할 수 없다고 했습니다. 그들은 틀렸습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f0fd5f6c680a": {
+  "en": "Destroying this BitNode will give you Source-File 5, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 5를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "25193c412967": {
+  "en": "This Source-File grants you a new stat called Intelligence. Intelligence is unique because it is permanent and persistent (it never gets reset back to 1). However, gaining Intelligence experience is much slower than other stats. Higher Intelligence levels will boost your production for many actions in the game.",
+  "kind": "string",
+  "ko": "이 소스 파일은 지능(Intelligence)이라는 새 스탯을 줍니다. 지능은 영구적이고 유지된다는(1로 초기화되지 않는다는) 점에서 독특합니다. 하지만 지능 경험치를 얻는 속도는 다른 스탯보다 훨씬 느립니다. 지능 레벨이 높을수록 게임의 많은 행동에서 생산량이 늘어납니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "16c43b165d2c": {
+  "en": "In addition, this Source-File will unlock:",
+  "kind": "string",
+  "ko": "또한 이 소스 파일은 다음을 해금합니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "ae3b4fba901e": {
+  "en": " Netscript function",
+  "kind": "string",
+  "ko": " Netscript 함수",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "a0cc38ad4831": {
+  "en": "Permanent access to ",
+  "kind": "string",
+  "ko": "영구 접근: ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f01af7b1e7e3": {
+  "en": "Access to BitNode multiplier information on the ",
+  "kind": "string",
+  "ko": "비트노드 배율 정보 확인(다음 페이지): ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "527fae879aeb": {
+  "en": "It will also raise all of your hacking-related multipliers by:",
+  "kind": "string",
+  "ko": "또한 해킹 관련 배율을 모두 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "234a99f340f4": {
+  "en": "Like Tears in Rain",
+  "kind": "string",
+  "ko": "빗속의 눈물처럼",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5a7e9eeec1a0": {
+  "en": "In the middle of the 21st century, ",
+  "kind": "string",
+  "ko": "21세기 중반, ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "53a870aa0570": {
+  "en": " began designing and manufacturing advanced synthetic androids, or Synthoids for short. They achieved a major technological breakthrough in the sixth generation of their Synthoid design, called MK-VI, by developing a hyper-intelligent AI. Many argue that this was the first sentient AI ever created. This resulted in Synthoid models that were stronger, faster, and more intelligent than the humans that had created them.",
+  "kind": "string",
+  "ko": "는 고급 합성 안드로이드, 줄여서 Synthoid를 설계하고 제조하기 시작했습니다. 이들은 MK-VI라는 6세대 Synthoid 설계에서 초지능 AI를 개발해 중대한 기술적 돌파구를 이뤘습니다. 많은 사람이 이것이 지금까지 만들어진 최초의 지각 있는 AI라고 주장합니다. 그 결과 Synthoid 모델은 이를 만든 인간보다 더 강하고, 더 빠르고, 더 지능적이었습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3d81d254c634": {
+  "en": "In this BitNode, you will be able to access the Bladeburner division at the NSA, which provides a new mechanic for progression.",
+  "kind": "string",
+  "ko": "이 비트노드에서는 NSA의 블레이드버너 부서에 접근할 수 있으며, 이는 성장을 위한 새로운 메커니즘을 제공합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "cb35e587e0a6": {
+  "en": "Destroying this BitNode will give you Source-File 6, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 6을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "dfd0505ff0b6": {
+  "en": "This Source-File allows you to access the NSA's Bladeburner division in other BitNodes. In addition, this Source-File will raise both the level and experience gain rate of all your combat stats by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 다른 비트노드에서도 NSA의 블레이드버너 부서에 접근할 수 있게 해 줍니다. 또한 모든 전투 스탯의 레벨과 경험치 획득 속도를 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d7c97b40209d": {
+  "en": "More human than humans",
+  "kind": "string",
+  "ko": "인간보다 더 인간적인",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "800f9147d6d8": {
+  "en": "In the middle of the 21st century, you were doing cutting-edge work at ",
+  "kind": "string",
+  "ko": "21세기 중반 당신은 ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c67629119088": {
+  "en": " as part of the AI design team for advanced synthetic androids, or Synthoids for short. You helped achieve a major technological breakthrough in the sixth generation of the company's Synthoid design, called MK-VI, by developing a hyper-intelligent AI. Many argue that this was the first sentient AI ever created. This resulted in Synthoid models that were stronger, faster, and more intelligent than the humans that had created them.",
+  "kind": "string",
+  "ko": "에서 고급 합성 안드로이드, 줄여서 Synthoid를 위한 AI 설계 팀의 일원으로 최첨단 작업을 하고 있었습니다. 당신은 MK-VI라는 회사의 6세대 Synthoid 설계에서 초지능 AI를 개발해 중대한 기술적 돌파구를 이루는 데 기여했습니다. 많은 사람이 이것이 지금까지 만들어진 최초의 지각 있는 AI라고 주장합니다. 그 결과 Synthoid 모델은 이를 만든 인간보다 더 강하고, 더 빠르고, 더 지능적이었습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3888d26d102e": {
+  "en": "Destroying this BitNode will give you Source-File 7, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 7을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5d5d4169fe7c": {
+  "en": "This Source-File allows you to access the NSA's Bladeburner division in other BitNodes. In addition, this Source-File will increase all of your Bladeburner multipliers by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 다른 비트노드에서도 NSA의 블레이드버너 부서에 접근할 수 있게 해 줍니다. 또한 모든 블레이드버너 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e4dc3da18264": {
+  "en": "Level 3: 14% and immediately receive \"",
+  "kind": "string",
+  "ko": "레벨 3: 14%, 그리고 블레이드버너 부서에 가입하면 즉시 받는 증강: \"",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3fb57299547f": {
+  "en": "\" augmentation after joining the Bladeburner division",
+  "kind": "string",
+  "ko": "\"",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "6dde3b0ad42c": {
+  "en": "Ghost of Wall Street",
+  "kind": "string",
+  "ko": "Ghost of Wall Street",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c16d2f23be96": {
+  "en": "Money never sleeps",
+  "kind": "string",
+  "ko": "돈은 잠들지 않는다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "167877c0a58d": {
+  "en": "You are trying to make a name for yourself as an up-and-coming hedge fund manager on Wall Street.",
+  "kind": "string",
+  "ko": "당신은 월스트리트에서 떠오르는 헤지 펀드 매니저로 이름을 알리려 하고 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "a6d488b82fd4": {
+  "en": "In this BitNode:",
+  "kind": "string",
+  "ko": "이 비트노드에서는:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5fd1799098db": {
+  "en": "Your starting money is 250e6.",
+  "kind": "string",
+  "ko": "시작 자금은 250e6입니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d3a5826b3ada": {
+  "en": "You start with a WSE membership and access to the TIX API.",
+  "kind": "string",
+  "ko": "WSE 회원권과 TIX API 접근권을 가지고 시작합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "387c849caabf": {
+  "en": "You can short stocks and place different types of orders (limit/stop).",
+  "kind": "string",
+  "ko": "주식을 공매도하고 다른 유형의 주문(지정가/스톱)을 낼 수 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b679ba4ebe24": {
+  "en": "Destroying this BitNode will give you Source-File 8, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 8을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "fc4fcdbc9d3a": {
+  "en": "This Source-File grants the following benefits:",
+  "kind": "string",
+  "ko": "이 소스 파일은 다음 혜택을 줍니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "09d45d299b23": {
+  "en": "Level 1: Permanent access to WSE and TIX API",
+  "kind": "string",
+  "ko": "레벨 1: WSE와 TIX API에 대한 영구 접근",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "df70d6ec6d0b": {
+  "en": "Level 2: Ability to short stocks in other BitNodes",
+  "kind": "string",
+  "ko": "레벨 2: 다른 비트노드에서 주식 공매도 가능",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "55be4f8691d7": {
+  "en": "Level 3: Ability to use limit/stop orders in other BitNodes",
+  "kind": "string",
+  "ko": "레벨 3: 다른 비트노드에서 지정가/스톱 주문 사용 가능",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d080c91d6b26": {
+  "en": "This Source-File also increases your hacking growth multipliers by:",
+  "kind": "string",
+  "ko": "또한 이 소스 파일은 해킹 성장 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "48967043198f": {
+  "en": "Level 1: 12%",
+  "kind": "string",
+  "ko": "레벨 1: 12%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3b9493dbd14a": {
+  "en": "Level 2: 18%",
+  "kind": "string",
+  "ko": "레벨 2: 18%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "4ce39f21cefc": {
+  "en": "Level 3: 21%",
+  "kind": "string",
+  "ko": "레벨 3: 21%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "60ca431c644a": {
+  "en": "Hacktocracy",
+  "kind": "string",
+  "ko": "Hacktocracy",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "0e60bb57ad4b": {
+  "en": "Hacknet Unleashed",
+  "kind": "string",
+  "ko": "해크넷 해방",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "197c54b63c80": {
+  "en": "When ",
+  "kind": "string",
+  "ko": " ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "a1573e8f375b": {
+  "en": " released their open-source Linux distro Chapeau, it quickly became the OS of choice for the underground hacking community. Chapeau became especially notorious for powering the Hacknet, which is a global, decentralized network used for nefarious purposes.",
+  "kind": "string",
+  "ko": "가 오픈 소스 리눅스 배포판 Chapeau를 공개하자, 이것은 곧 지하 해킹 커뮤니티가 선호하는 OS가 되었습니다. Chapeau는 불순한 목적에 쓰이는 전 세계적인 분산 네트워크인 해크넷을 구동하는 것으로 특히 악명이 높아졌습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "cda0cdfb5536": {
+  "en": " quickly abandoned the project and dissociated themselves from it.",
+  "kind": "string",
+  "ko": "는 곧 이 프로젝트를 버리고 거리를 두었습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "43de0cddbe11": {
+  "en": "This BitNode unlocks the Hacknet Server, which is an upgraded version of the Hacknet Node. Hacknet Servers generate hashes, which can be spent on a variety of different upgrades.",
+  "kind": "string",
+  "ko": "이 비트노드는 해크넷 노드의 업그레이드 버전인 해크넷 서버를 해금합니다. 해크넷 서버는 해시를 생성하며, 해시는 여러 가지 업그레이드에 쓸 수 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "11013707c9ca": {
+  "en": "Destroying this BitNode will give you Source-File 9, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 9를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f0f27979eed0": {
+  "en": "Level 1: Permanently unlocks the Hacknet Server in other BitNodes",
+  "kind": "string",
+  "ko": "레벨 1: 다른 비트노드에서 해크넷 서버를 영구적으로 해금",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b3c2b4aec2e4": {
+  "en": "Level 2: You start with 128GB of RAM on your home computer when entering a new BitNode",
+  "kind": "string",
+  "ko": "레벨 2: 새 비트노드에 들어갈 때 홈 컴퓨터의 RAM 128GB로 시작",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "bb2e018e7745": {
+  "en": "Level 3: Grants a highly-upgraded Hacknet Server when entering a new BitNode",
+  "kind": "string",
+  "ko": "레벨 3: 새 비트노드에 들어갈 때 고도로 업그레이드된 해크넷 서버를 줌",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "257753f10c14": {
+  "en": "(Note that the Level 3 effect of this Source-File only applies when entering a new BitNode, NOT when installing augmentations)",
+  "kind": "string",
+  "ko": "(이 소스 파일의 레벨 3 효과는 새 비트노드에 들어갈 때만 적용되며 증강을 설치할 때는 적용되지 않습니다)",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "cc2216976dfd": {
+  "en": "This Source-File also increases hacknet production and reduces hacknet costs by:",
+  "kind": "string",
+  "ko": "또한 이 소스 파일은 해크넷 생산량을 올리고 해크넷 비용을 다음만큼 줄입니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "fc51d84475e4": {
+  "en": "Digital Carbon",
+  "kind": "string",
+  "ko": "Digital Carbon",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "63cd3987bcde": {
+  "en": "Your body is not who you are",
+  "kind": "string",
+  "ko": "당신의 몸이 당신은 아니다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "ed9f7e0b6a0a": {
+  "en": "In 2084, VitaLife unveiled to the world the Persona Core, a technology that allowed people to digitize their consciousness. Their consciousness could then be transferred into Synthoids or other bodies by transmitting the digitized data. Human bodies became nothing more than 'sleeves' for the human consciousness. Mankind had finally achieved immortality - at least for those that could afford it.",
+  "kind": "string",
+  "ko": "2084년 VitaLife는 사람들이 의식을 디지털화할 수 있는 기술인 Persona Core를 세상에 공개했습니다. 디지털화된 데이터를 전송해 그 의식을 Synthoid나 다른 몸으로 옮길 수 있었습니다. 인간의 몸은 인간 의식을 위한 '슬리브'에 불과해졌습니다. 인류는 마침내 불멸을 이뤘습니다. 적어도 그럴 형편이 되는 사람들에게는요.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "eb7166bba969": {
+  "en": "This BitNode unlocks Sleeve and Grafting technology:",
+  "kind": "string",
+  "ko": "이 비트노드는 슬리브와 그래프팅 기술을 해금합니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c5deb363b943": {
+  "en": "Sleeve: Duplicate your consciousness into Synthoids, allowing you to perform different tasks asynchronously. You cannot buy Sleeves or upgrade them outside this BitNode.",
+  "kind": "string",
+  "ko": "슬리브: 의식을 Synthoid에 복제해 서로 다른 작업을 비동기적으로 수행할 수 있습니다. 이 비트노드 밖에서는 슬리브를 구매하거나 업그레이드할 수 없습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f2006d9c13c8": {
+  "en": "Grafting: Visit VitaLife in New Tokyo to get access to this technology. It allows you to graft augmentations, which is an alternative way of installing augmentations.",
+  "kind": "string",
+  "ko": "그래프팅: New Tokyo의 VitaLife를 방문하면 이 기술에 접근할 수 있습니다. 증강을 접목할 수 있으며, 이는 증강을 설치하는 다른 방법입니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "2453296cea36": {
+  "en": "Destroying this BitNode will give you Source-File 10, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 10을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d8c43b9dffb1": {
+  "en": "This Source-File unlocks Sleeve and Grafting API in other BitNodes. Each level of this Source-File also grants you a Sleeve.",
+  "kind": "string",
+  "ko": "이 소스 파일은 다른 비트노드에서 슬리브와 그래프팅 API를 해금합니다. 이 소스 파일의 레벨마다 슬리브도 하나씩 줍니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "02466280e8e9": {
+  "en": "The Big Crash",
+  "kind": "string",
+  "ko": "The Big Crash",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "5753c1ba10a2": {
+  "en": "Okay. Sell it all.",
+  "kind": "string",
+  "ko": "좋아. 전부 팔아.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "7043fe4bf173": {
+  "en": "The 2050s was defined by the massive amounts of violent civil unrest and anarchic rebellion that rose all around the world. It was this period of disorder that eventually led to the governmental reformation of many global superpowers, most notably the USA and China. But just as the world was slowly beginning to recover from these dark times, financial catastrophes hit.",
+  "kind": "string",
+  "ko": "2050년대는 전 세계에서 일어난 엄청난 규모의 폭력적인 시민 소요와 무정부적 반란으로 규정됩니다. 이 혼란의 시기가 결국 미국과 중국을 비롯한 많은 세계 강대국의 정부 개혁으로 이어졌습니다. 하지만 세계가 이 암흑기에서 서서히 회복하기 시작할 무렵 금융 재앙이 닥쳤습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "bb18f9032fbb": {
+  "en": "In many countries, the high cost of trying to deal with the civil disorder bankrupted the governments. In all of this chaos and confusion, hackers were able to steal billions of dollars from the world's largest electronic banks, prompting an international banking crisis as governments were unable to bail out insolvent banks. Now, the world is slowly crumbling in the middle of the biggest economic crisis of all time.",
+  "kind": "string",
+  "ko": "많은 나라에서 시민 소요에 대처하는 데 든 막대한 비용이 정부를 파산시켰습니다. 이 모든 혼돈과 혼란 속에서 해커들이 세계 최대 전자 은행들에서 수십억 달러를 훔칠 수 있었고, 정부가 부실 은행을 구제할 수 없어 국제 은행 위기가 촉발되었습니다. 이제 세계는 사상 최대의 경제 위기 한복판에서 서서히 무너지고 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "bcbd89ae9957": {
+  "en": "Destroying this BitNode will give you Source-File 11, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 11을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "23c6636cdf8c": {
+  "en": "This Source-File makes it so that company favor increases BOTH the player's salary and reputation gain rate at that company by 1% per favor (rather than just the reputation gain). This Source-File also increases the player's company salary and reputation gain multipliers by:",
+  "kind": "string",
+  "ko": "이 소스 파일은 회사 호감도가 (평판 획득 속도뿐 아니라) 그 회사에서의 플레이어의 급여와 평판 획득 속도를 호감도당 1% 올리게 합니다. 또한 플레이어의 회사 급여와 평판 획득 배율을 다음만큼 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b72fe465c51b": {
+  "en": "Level 1: 32%",
+  "kind": "string",
+  "ko": "레벨 1: 32%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "38dbca5d7efe": {
+  "en": "Level 2: 48%",
+  "kind": "string",
+  "ko": "레벨 2: 48%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "9b884b97dc07": {
+  "en": "Level 3: 56%",
+  "kind": "string",
+  "ko": "레벨 3: 56%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "309d31309c8b": {
+  "en": "It also reduces the price increase for every augmentation bought by:",
+  "kind": "string",
+  "ko": "또한 증강을 구매할 때마다 오르는 가격 인상폭을 다음만큼 줄입니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "0ca521025cdd": {
+  "en": "Level 1: 4%",
+  "kind": "string",
+  "ko": "레벨 1: 4%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "ad8f33d66a3e": {
+  "en": "Level 2: 6%",
+  "kind": "string",
+  "ko": "레벨 2: 6%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "56a873a01cfb": {
+  "en": "Level 3: 7%",
+  "kind": "string",
+  "ko": "레벨 3: 7%",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "2b5fe82847ef": {
+  "en": "The Recursion",
+  "kind": "string",
+  "ko": "The Recursion",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f93f18734a59": {
+  "en": "Repeat.",
+  "kind": "string",
+  "ko": "반복.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "793dd6774f45": {
+  "en": "To iterate is human; to recurse, divine.",
+  "kind": "string",
+  "ko": "반복하는 것은 인간이고, 재귀하는 것은 신이다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "715e10700408": {
+  "en": "Every time this BitNode is destroyed, it becomes slightly harder. Destroying this BitNode will give you Source-File 12, or if you already have this Source-File, it will upgrade its level. There is no maximum level for Source-File 12.",
+  "kind": "string",
+  "ko": "이 비트노드는 파괴될 때마다 조금씩 더 어려워집니다. 이 비트노드를 파괴하면 소스 파일 12를 얻고, 이미 이 소스 파일이 있다면 레벨이 올라갑니다. 소스 파일 12에는 최대 레벨이 없습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d23cdce49be1": {
+  "en": "This Source-File lets you start any BitNodes with Neuroflux Governor equal to the level of this Source-File.",
+  "kind": "string",
+  "ko": "이 소스 파일의 레벨마다 어떤 비트노드든 이 소스 파일의 레벨과 같은 Neuroflux Governor로 시작할 수 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "57824155fd79": {
+  "en": "They're lunatics",
+  "kind": "string",
+  "ko": "They're lunatics",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c8a8d42639b8": {
+  "en": "1 step back, 2 steps forward",
+  "kind": "string",
+  "ko": "한 걸음 물러서고, 두 걸음 나아가다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "831dde1ed983": {
+  "en": "With the invention of augmentations in the 2040s, a religious group known as the",
+  "kind": "string",
+  "ko": "2040년대에 증강이 발명되면서 ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "8465499a7e4d": {
+  "en": " has rallied far more support than anyone would have hoped.",
+  "kind": "string",
+  "ko": "라는 종교 단체가 누구도 기대하지 못했을 만큼 훨씬 많은 지지를 모았습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "80e4580f18e2": {
+  "en": "Their leader, Allison \"Mother\" Stanek is said to have created her own augmentation whose power goes beyond any other. Find her in ",
+  "kind": "string",
+  "ko": "그들의 지도자 Allison \"Mother\" Stanek은 다른 어떤 것보다 강력한 자신만의 증강을 만들었다고 합니다. ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "4af0e4729675": {
+  "en": " and gain her trust.",
+  "kind": "string",
+  "ko": "에서 그녀를 찾아 신뢰를 얻으세요.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "44832a7e538e": {
+  "en": "Destroying this BitNode will give you Source-File 13, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 13을 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "63d93acc8ba6": {
+  "en": "This Source-File lets the ",
+  "kind": "string",
+  "ko": "이 소스 파일은 ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c9e9aeec3c5d": {
+  "en": " appear in other BitNodes.",
+  "kind": "string",
+  "ko": "가 다른 비트노드에도 나타나게 합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "edc9c44df4a7": {
+  "en": "Each level of this Source-File increases the size of Stanek's Gift.",
+  "kind": "string",
+  "ko": "이 소스 파일의 레벨마다 스타넥의 선물의 크기가 커집니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e792123dfe24": {
+  "en": "Due to the effect of Source-File 7.3, you must accept Stanek's Gift before joining the Bladeburner division if you have that Source-File.",
+  "kind": "string",
+  "ko": "소스 파일 7.3의 효과 때문에, 그 소스 파일이 있다면 블레이드버너 부서에 가입하기 전에 스타넥의 선물을 수락해야 합니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "c5a4de3acb94": {
+  "en": "IPvGO Subnet Takeover",
+  "kind": "string",
+  "ko": "IPvGO Subnet Takeover",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "907e5f9d5aba": {
+  "en": "Territory exists only in the 'net",
+  "kind": "string",
+  "ko": "영토는 'net 안에만 존재한다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "3fff25964492": {
+  "en": "In late 2070, the .org bubble burst, and most of the newly-implemented IPvGO 'net collapsed overnight. Since then, various factions have been fighting over small subnets to control their computational power. These subnets are very valuable in the right hands, if you can wrest them from their current owners. You will be opposed by the other factions, but you can overcome them with careful choices. Prevent their attempts to destroy your networks by controlling the open space in the 'net!",
+  "kind": "string",
+  "ko": "2070년 후반 .org 거품이 터지면서 새로 구현된 IPvGO 'net 대부분이 하룻밤 사이에 붕괴했습니다. 그 이후 여러 팩션이 계산 능력을 장악하기 위해 작은 서브넷을 두고 싸워 왔습니다. 이 서브넷은 현재 소유자에게서 빼앗을 수만 있다면 적절한 사람의 손에서 매우 가치가 큽니다. 다른 팩션들이 방해하겠지만 신중한 선택으로 이겨 낼 수 있습니다. 'net의 열린 공간을 장악해 네트워크를 파괴하려는 그들의 시도를 막으세요!",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "672001e318cf": {
+  "en": "Destroying this BitNode will give you Source-File 14, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 14를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "58ff3cebaaff": {
+  "en": "Level 1: 100% increased stat multipliers from Node Power",
+  "kind": "string",
+  "ko": "레벨 1: Node Power의 스탯 배율 100% 증가",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "82cb9cf7fba0": {
+  "en": "Level 2: Permanently unlocks the go.cheat API",
+  "kind": "string",
+  "ko": "레벨 2: go.cheat API를 영구적으로 해금",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "538d0ee0bc61": {
+  "en": "Level 3: 25% additive increased success rate for the go.cheat API",
+  "kind": "string",
+  "ko": "레벨 3: go.cheat API의 성공률 25% 가산 증가",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "23a56b7d27c8": {
+  "en": "This Source-File also increases the maximum favor from winstreaks you can gain for each faction to:",
+  "kind": "string",
+  "ko": "또한 이 소스 파일은 각 팩션에서 연승으로 얻을 수 있는 최대 호감도를 다음으로 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "1d5ed365c7ad": {
+  "en": "Level 1: 200k rep equivalent",
+  "kind": "string",
+  "ko": "레벨 1: 평판 200k에 해당",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "63c2aa6d1f6c": {
+  "en": "Level 2: 300k rep equivalent",
+  "kind": "string",
+  "ko": "레벨 2: 평판 300k에 해당",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "8e5f948d20dc": {
+  "en": "Level 3: 400k rep equivalent",
+  "kind": "string",
+  "ko": "레벨 3: 평판 400k에 해당",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d4263fb197de": {
+  "en": "and increases the reputation converted to favor for winning two games in a row to:",
+  "kind": "string",
+  "ko": "그리고 2연승을 했을 때 호감도로 변환되는 평판을 다음으로 올립니다:",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b52421561158": {
+  "en": "Level 1: 1000 rep to favor",
+  "kind": "string",
+  "ko": "레벨 1: 평판 1000당 호감도 1",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "79801e7face2": {
+  "en": "Level 2: 1500 rep to favor",
+  "kind": "string",
+  "ko": "레벨 2: 평판 1500당 호감도 1",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "b44edb8ec533": {
+  "en": "Level 3: 2000 rep to favor",
+  "kind": "string",
+  "ko": "레벨 3: 평판 2000당 호감도 1",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "ea8328dd0928": {
+  "en": "The Secrets of the Dark Net",
+  "kind": "string",
+  "ko": "The Secrets of the Dark Net",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "92d34c50e9b5": {
+  "en": "The rules have changed",
+  "kind": "string",
+  "ko": "규칙이 바뀌었다",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "965ed2e952eb": {
+  "en": "Delving into the uncharted and secretive parts of the internet comes with the promise of freedom from oppressive authority and surveillance. Leaving stability behind and turning to the dark web comes with risks... but also rewards.",
+  "kind": "string",
+  "ko": "인터넷의 미지의 비밀스러운 부분을 파고드는 것은 억압적인 권력과 감시로부터의 자유라는 약속과 함께 옵니다. 안정성을 뒤로하고 다크 웹으로 향하는 데는 위험이 따르지만... 보상도 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "768c47a7785a": {
+  "en": "Unlike the traditional network of servers, the \"dark\" net is a constantly shifting, complex, unreliable place where servers can move or disappear at any moment. Long-distance communication is often impossible, requiring scripts to be self-sufficient and durable, and spread themselves to stay alive. If you can take advantage of the darknet servers' weak passwords and leaky logs, you will be able to gain access to the deepest parts of the darknet and its secrets.",
+  "kind": "string",
+  "ko": "전통적인 서버 네트워크와 달리 \"다크\" 넷은 끊임없이 변하고, 복잡하고, 신뢰할 수 없는 곳이며 서버는 언제든 옮겨 가거나 사라질 수 있습니다. 장거리 통신은 흔히 불가능하므로 스크립트는 자급자족하고 튼튼해야 하며 살아남기 위해 스스로를 퍼뜨려야 합니다. 다크넷 서버의 약한 비밀번호와 새는 로그를 이용할 수 있다면 다크넷의 가장 깊은 곳과 그 비밀에 접근할 수 있습니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "bd43ef449df6": {
+  "en": "In this BitNode, the Daedalus faction has not yet found and monopolized the fabled Red Pill augmentation. Legends say it can be found somewhere, out there in the dark...",
+  "kind": "string",
+  "ko": "이 비트노드에서는 Daedalus 팩션이 전설의 Red Pill 증강을 아직 찾아 독점하지 못했습니다. 전설에 따르면 그것은 저 어둠 속 어딘가에 있다고 합니다...",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "447e7f3c71f4": {
+  "en": "Destroying this BitNode will give you Source-File 15, or if you already have this Source-File, it will upgrade its level up to a maximum of 3.",
+  "kind": "string",
+  "ko": "이 비트노드를 파괴하면 소스 파일 15를 얻고, 이미 이 소스 파일이 있다면 최대 3까지 레벨이 올라갑니다.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "e0f4355f3588": {
+  "en": "Level 1: Permanently start with the TOR router and ",
+  "kind": "string",
+  "ko": "레벨 1: TOR 라우터와 ",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "f0ba4e1a2f4b": {
+  "en": ", and unlock the full dark web on all BitNodes.",
+  "kind": "string",
+  "ko": "를 가지고 영구적으로 시작하며, 모든 비트노드에서 다크웹 전체를 해금",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "d7dabb644a3c": {
+  "en": "Level 2: Your charisma level increases job salary and rep gain. Also increases authentication speed by 20%",
+  "kind": "string",
+  "ko": "레벨 2: 카리스마 레벨이 직업 급여와 평판 획득을 올림. 인증 속도도 20% 올림",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "82ea6977f95b": {
+  "en": "Level 3: Your charisma level increases faction work rep gain. Also increases the xp and money gained from .cache files by 50%.",
+  "kind": "string",
+  "ko": "레벨 3: 카리스마 레벨이 팩션 작업 평판 획득을 올림. .cache 파일에서 얻는 경험치와 돈도 50% 올림.",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "252d735884fc": {
+  "en": "Invalid BitNodeN",
+  "kind": "string",
+  "ko": "Invalid BitNodeN",
+  "source": "BitNode/BitNode.tsx"
+ },
+ "ac92813f1018": {
+  "en": "WorldDaemon is not a normal server. This is a bug. Please contact developers.",
+  "kind": "string",
+  "ko": "WorldDaemon은 일반 서버가 아닙니다. 버그입니다. 개발자에게 문의해 주세요.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "483b321d8c8f": {
+  "en": "It must be a JSONMap.",
+  "kind": "string",
+  "ko": "It must be a JSONMap.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "b9f5b0e69a73": {
+  "en": "Invalid BitNode: {0}.",
+  "kind": "template",
+  "ko": "올바르지 않은 비트노드: {0}.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "913d61d52d39": {
+  "en": "Invalid SF level: {0}.",
+  "kind": "template",
+  "ko": "올바르지 않은 SF 레벨: {0}.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "bda57dfb68ed": {
+  "en": "Invalid SF level: {0}. Max level: {1}.",
+  "kind": "template",
+  "ko": "올바르지 않은 SF 레벨: {0}. 최대 레벨: {1}.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "9985589b55a5": {
+  "en": "sourceFileOverrides is invalid. Reason: {0}",
+  "kind": "template",
+  "ko": "sourceFileOverrides가 올바르지 않습니다. 이유: {0}",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "9c5dff723b86": {
+  "en": "intelligenceOverride is invalid. It must be a non-negative integer.",
+  "kind": "string",
+  "ko": "intelligenceOverride가 올바르지 않습니다. 0 이상의 정수여야 합니다.",
+  "source": "BitNode/BitNodeUtils.ts"
+ },
+ "f96ee6cc1d15": {
+  "en": "WARNING: USING THIS PROGRAM WILL CAUSE YOU TO LOSE ALL OF YOUR PROGRESS ON THE CURRENT BITNODE.",
+  "kind": "string",
+  "ko": "경고: 이 프로그램을 사용하면 현재 비트노드의 모든 진행 상황을 잃게 됩니다.",
+  "source": "BitNode/ui/BitFlumeModal.tsx"
+ },
+ "7e8cd25f63b4": {
+  "en": "Do you want to travel to the BitNode Nexus? This allows you to reset the current BitNode and select a new one.",
+  "kind": "string",
+  "ko": "비트노드 넥서스로 이동하시겠어요? 현재 비트노드를 초기화하고 새 비트노드를 선택할 수 있어요.",
+  "source": "BitNode/ui/BitFlumeModal.tsx"
+ },
+ "4cfa920b3fa1": {
+  "en": "Travel to the BitVerse",
+  "kind": "string",
+  "ko": "비트버스로 이동",
+  "source": "BitNode/ui/BitFlumeModal.tsx"
+ },
+ "01aa4fb9b69f": {
+  "en": "Max level: ",
+  "kind": "string",
+  "ko": "최대 레벨: ",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "ba973c05f1b5": {
+  "en": "Changing the active level of a SF is temporary; you still permanently own that SF level. For example, if\n  you enter BN 1.3 while having SF 1.2 but with the active level set to 0, you will not get the bonuses from SF\n  1.1 or SF 1.2, but you will still earn SF 1.3 when destroying the BN.",
+  "kind": "string",
+  "ko": "소스 파일의 활성 레벨을 바꾸는 것은 일시적이며, 그 소스 파일 레벨은 여전히 영구적으로 소유해요. 예를 들어 SF 1.2가 있는 상태에서 활성 레벨을 0으로 설정하고 BN 1.3에 들어가면 SF 1.1과 SF 1.2의 보너스는 받지 못하지만, 그 BN을 파괴하면 여전히 SF 1.3을 얻어요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "83423c198b60": {
+  "en": "Note:",
+  "kind": "string",
+  "ko": "참고:",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "fcbce84f1487": {
+  "en": "Changing the active level of SF 10 does not affect your current sleeves or the maximum number of sleeves.",
+  "kind": "string",
+  "ko": "SF 10의 활성 레벨을 바꿔도 현재 슬리브나 슬리브의 최대 수에는 영향이 없어요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "aa1e8410ed98": {
+  "en": "Note: ",
+  "kind": "string",
+  "ko": "참고: ",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "f707cac74b13": {
+  "en": "Override active level of Source-File:",
+  "kind": "string",
+  "ko": "소스 파일의 활성 레벨 덮어쓰기:",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "61cc55aa0453": {
+  "en": "Add",
+  "kind": "string",
+  "ko": "추가",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "7c1a707db867": {
+  "en": "Remove all overridden SF",
+  "kind": "string",
+  "ko": "덮어쓴 SF 모두 제거",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "0cdec2d2e660": {
+  "en": "No overridden SF",
+  "kind": "string",
+  "ko": "덮어쓴 SF 없음",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "4100ef4df528": {
+  "en": "Remove all",
+  "kind": "string",
+  "ko": "모두 제거",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "71d5e6856685": {
+  "en": "Set active level for all chosen SF",
+  "kind": "string",
+  "ko": "선택한 모든 SF의 활성 레벨 설정",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "af066f3eb233": {
+  "en": "Set all SF",
+  "kind": "string",
+  "ko": "모든 SF 설정",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "1f7f8e382abe": {
+  "en": "Override Intelligence:",
+  "kind": "string",
+  "ko": "지능 덮어쓰기:",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "e82093d1db28": {
+  "en": "Your intelligence and your Sleeves' intelligence will be temporarily set to this value if it is lower than their current values. For example:",
+  "kind": "string",
+  "ko": "지능과 슬리브의 지능이 현재 값보다 낮다면 이 값으로 일시적으로 설정돼요. 예를 들면:",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "5b28a4cf124b": {
+  "en": "If your intelligence is 1000 and you set this value to 500, your intelligence will be temporarily set to 500.",
+  "kind": "string",
+  "ko": "지능이 1000인데 이 값을 500으로 설정하면 지능이 일시적으로 500으로 설정돼요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "85067f125e4e": {
+  "en": "If a Sleeve's intelligence is 200 and you set this value to 500, that Sleeve's intelligence is still 200.",
+  "kind": "string",
+  "ko": "슬리브의 지능이 200인데 이 값을 500으로 설정하면 그 슬리브의 지능은 여전히 200이에요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "b943b57d62d8": {
+  "en": "Note that you still gain intelligence experience as normal.",
+  "kind": "string",
+  "ko": "지능 경험치는 평소처럼 계속 얻는다는 점에 유의하세요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "a3cffb701fc2": {
+  "en": "For example, suppose you have 1e6 intelligence exp (intelligence skill = 242) and set the intelligence override to 100. At the start of the BitNode, your intelligence skill will be set to 100 (equivalent to ~11255.318 intelligence exp).",
+  "kind": "string",
+  "ko": "예를 들어 지능 경험치가 1e6(지능 스킬 = 242)이고 지능 덮어쓰기를 100으로 설정했다고 해요. 비트노드를 시작할 때 지능 스킬이 100(지능 경험치 약 11255.318에 해당)으로 설정돼요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "16effdfcbcdb": {
+  "en": "If you gain 500e3 intelligence exp during the BitNode, your intelligence skill will increase to 220 (total intelligence exp = 11255 + 500e3 = 511255). After performing bitflume, the exp gained during the BitNode is added to your original exp. Your intelligence skill will then become 255 (total intelligence exp = 1e6 + 500e3 = 1.5e6).",
+  "kind": "string",
+  "ko": "비트노드를 진행하는 동안 지능 경험치를 500e3 얻으면 지능 스킬이 220으로 올라요(총 지능 경험치 = 11255 + 500e3 = 511255). 비트플룸을 실행하면 비트노드 동안 얻은 경험치가 원래 경험치에 더해져요. 그러면 지능 스킬은 255가 돼요(총 지능 경험치 = 1e6 + 500e3 = 1.5e6).",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "6e9b4b1ec7da": {
+  "en": "The overridden intelligence will be shown in the character overview. You can hover your mouse over it to see the original value.",
+  "kind": "string",
+  "ko": "덮어쓴 지능은 캐릭터 개요에 표시돼요. 마우스를 올리면 원래 값을 볼 수 있어요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "63c9e0bac98e": {
+  "en": "Advanced options",
+  "kind": "string",
+  "ko": "고급 옵션",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "5d69a49c7c7d": {
+  "en": "These options enable unique gameplay that is intended for experienced players. If you are a new player, you can safely ignore these options and come back to try them later.",
+  "kind": "string",
+  "ko": "이 옵션은 숙련된 플레이어를 위한 독특한 플레이를 가능하게 해요. 새 플레이어라면 이 옵션을 안전하게 무시하고 나중에 다시 와서 시도해 보세요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "59808427dedb": {
+  "en": "Restrict max RAM and core of Home PC",
+  "kind": "string",
+  "ko": "홈 PC의 최대 RAM과 코어 제한",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "0061298727a1": {
+  "en": "The home computer's maximum RAM and number of cores are lower than normal. Max RAM: 128GB. Max core: 1.",
+  "kind": "string",
+  "ko": "홈 컴퓨터의 최대 RAM과 코어 수가 평소보다 낮아요. 최대 RAM: 128GB. 최대 코어: 1.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "a13a9491ffd5": {
+  "en": "Disable Gang",
+  "kind": "string",
+  "ko": "갱 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "818fef89f738": {
+  "en": "Disable Gang, regardless of BitNode and SF level",
+  "kind": "string",
+  "ko": "비트노드와 SF 레벨에 상관없이 갱을 비활성화해요",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "ebb43f67e2ef": {
+  "en": "Disable Corporation",
+  "kind": "string",
+  "ko": "기업 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "ab1de67ba08c": {
+  "en": "Disable Corporation, regardless of BitNode and SF level",
+  "kind": "string",
+  "ko": "비트노드와 SF 레벨에 상관없이 기업을 비활성화해요",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "24bd4d85cfa9": {
+  "en": "Disable Bladeburner",
+  "kind": "string",
+  "ko": "블레이드버너 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "08cb3731719b": {
+  "en": "Disable Bladeburner, regardless of BitNode and SF level",
+  "kind": "string",
+  "ko": "비트노드와 SF 레벨에 상관없이 블레이드버너를 비활성화해요",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "8b86d53136dd": {
+  "en": "Disable 4S Market Data",
+  "kind": "string",
+  "ko": "4S 시장 데이터 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "1d3d7563ce8c": {
+  "en": "Disable 4S Market Data, regardless of BitNode and SF level",
+  "kind": "string",
+  "ko": "비트노드와 SF 레벨에 상관없이 4S 시장 데이터를 비활성화해요",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "11a8a65990e3": {
+  "en": "Disable Hacknet Server",
+  "kind": "string",
+  "ko": "해크넷 서버 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "4aaebe232dfd": {
+  "en": "Disable Hacknet Server, regardless of BitNode and SF level. Hacknet Node is re-enabled in place of Hacknet Server.",
+  "kind": "string",
+  "ko": "비트노드와 SF 레벨에 상관없이 해크넷 서버를 비활성화해요. 해크넷 서버 대신 해크넷 노드가 다시 활성화돼요.",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "6c8f8f72acd4": {
+  "en": "Disable Sleeves' experience and augmentation",
+  "kind": "string",
+  "ko": "슬리브의 경험치와 증강 비활성화",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "abc36b7b3d5b": {
+  "en": "Sleeves cannot gain experience or install augmentations",
+  "kind": "string",
+  "ko": "슬리브가 경험치를 얻거나 증강을 설치할 수 없어요",
+  "source": "BitNode/ui/BitNodeAdvancedOptions.tsx"
+ },
+ "0ae415d136e1": {
+  "en": "Bitnode Multipliers",
+  "kind": "string",
+  "ko": "비트노드 배율",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "7d768806f798": {
+  "en": "{0} Difficulty",
+  "kind": "template",
+  "ko": "{0} 난이도",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "e030c6a1689f": {
+  "en": "Daedalus Augs Requirement",
+  "kind": "string",
+  "ko": "Daedalus 증강 요구량",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "ff3b48b02600": {
+  "en": "Coding Contract Reward",
+  "kind": "string",
+  "ko": "코딩 계약 보상",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "5c1e59a8ea40": {
+  "en": "Class/Gym Exp",
+  "kind": "string",
+  "ko": "수업/체육관 경험치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "19ff3a9a0572": {
+  "en": "Money Cost",
+  "kind": "string",
+  "ko": "돈 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "aa17891356d4": {
+  "en": "Reputation Cost",
+  "kind": "string",
+  "ko": "평판 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "0e0d31a8eeba": {
+  "en": "Work Money",
+  "kind": "string",
+  "ko": "근무 수입",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "3c9b5e441017": {
+  "en": "Work Reputation",
+  "kind": "string",
+  "ko": "근무 평판",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "2bcf23e846bc": {
+  "en": "Work Exp",
+  "kind": "string",
+  "ko": "근무 경험치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "3c2a69eb595d": {
+  "en": "Stock Market",
+  "kind": "string",
+  "ko": "주식 시장",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "5c50b8ca8de2": {
+  "en": "Market Data Cost",
+  "kind": "string",
+  "ko": "시장 데이터 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "e5059398814b": {
+  "en": "Market Data API Cost",
+  "kind": "string",
+  "ko": "시장 데이터 API 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "d6643a04c8b6": {
+  "en": "Favor to Donate",
+  "kind": "string",
+  "ko": "기부에 필요한 호감도",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "7882dd04e71f": {
+  "en": "Passive Rep",
+  "kind": "string",
+  "ko": "수동 평판",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "d7fee43d849b": {
+  "en": "Crime Exp",
+  "kind": "string",
+  "ko": "범죄 경험치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "bd07783ed9f6": {
+  "en": "Crime Success Rate",
+  "kind": "string",
+  "ko": "범죄 성공률",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "8a4600acd4b7": {
+  "en": "Darknet",
+  "kind": "string",
+  "ko": "다크넷",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "e09212c7d3ea": {
+  "en": "Skills",
+  "kind": "string",
+  "ko": "스킬",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "fb3e44afe793": {
+  "en": "Hacking Exp",
+  "kind": "string",
+  "ko": "해킹 경험치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "50c09c6d8af2": {
+  "en": "Server Growth Rate",
+  "kind": "string",
+  "ko": "서버 성장률",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "12b95ebe6da7": {
+  "en": "Server Max Money",
+  "kind": "string",
+  "ko": "서버 최대 금액",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "f82fd6093c22": {
+  "en": "Server Starting Money",
+  "kind": "string",
+  "ko": "서버 시작 금액",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "47f44c8e3fb4": {
+  "en": "Server Starting Security",
+  "kind": "string",
+  "ko": "서버 시작 보안",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "6289a4ed6a4d": {
+  "en": "Server Weaken Rate",
+  "kind": "string",
+  "ko": "서버 약화율",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "959893de6494": {
+  "en": "Money Gained From Manual Hack",
+  "kind": "string",
+  "ko": "수동 해킹으로 얻는 금액",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "f0963f803cb1": {
+  "en": "Influences how much money the player actually gains when they hack a server via the terminal. This is different from \"Stolen Money From Hack\". When the player hacks a server via the terminal, the amount of money in that server is reduced, but they do not gain that same amount.",
+  "kind": "string",
+  "ko": "플레이어가 터미널로 서버를 해킹할 때 실제로 얻는 돈의 양에 영향을 줍니다. \"해킹으로 훔친 금액\"과는 다릅니다. 플레이어가 터미널로 서버를 해킹하면 그 서버의 돈은 줄어들지만 플레이어가 같은 양을 얻지는 않습니다.",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "80167aca071e": {
+  "en": "Stolen Money From Hack",
+  "kind": "string",
+  "ko": "해킹으로 훔친 금액",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "91d354088541": {
+  "en": "Influences how much money is stolen from a server when the player performs a hack against it.",
+  "kind": "string",
+  "ko": "플레이어가 서버를 해킹할 때 서버에서 훔치는 돈의 양에 영향을 줍니다.",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "3c5acee684b3": {
+  "en": "Money Gained From Script Hack",
+  "kind": "string",
+  "ko": "스크립트 해킹으로 얻는 금액",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "32be77f57ecd": {
+  "en": "Influences how much money the player actually gains when a script hacks a server. This is different from \"Stolen Money From Hack\". When a script hacks a server, the amount of money in that server is reduced, but the player does not gain that same amount.",
+  "kind": "string",
+  "ko": "스크립트가 서버를 해킹할 때 플레이어가 실제로 얻는 돈의 양에 영향을 줍니다. \"해킹으로 훔친 금액\"과는 다릅니다. 스크립트가 서버를 해킹하면 그 서버의 돈은 줄어들지만 플레이어가 같은 양을 얻지는 않습니다.",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "fa13ccd611af": {
+  "en": "Base Cost",
+  "kind": "string",
+  "ko": "기본 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "99b763f9d017": {
+  "en": "Softcap Cost",
+  "kind": "string",
+  "ko": "소프트캡 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "66aedb443109": {
+  "en": "Server Limit",
+  "kind": "string",
+  "ko": "서버 한도",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "96b733d328c2": {
+  "en": "Max RAM",
+  "kind": "string",
+  "ko": "최대 RAM",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "3048be24456a": {
+  "en": "Home RAM Cost",
+  "kind": "string",
+  "ko": "홈 RAM 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "ca4c12e228ef": {
+  "en": "Cloud Servers",
+  "kind": "string",
+  "ko": "클라우드 서버",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "7c5b0baf42e2": {
+  "en": "Infiltration Money",
+  "kind": "string",
+  "ko": "침투 수입",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "4b0ccb845361": {
+  "en": "Infiltration Reputation",
+  "kind": "string",
+  "ko": "침투 평판",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "f4f4473df8cb": {
+  "en": "Disabled",
+  "kind": "string",
+  "ko": "비활성화",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "25100ebcd7ef": {
+  "en": "Rank Gain",
+  "kind": "string",
+  "ko": "랭크 획득",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "1371f3000a15": {
+  "en": "Skill Cost",
+  "kind": "string",
+  "ko": "스킬 비용",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "610257bcd9b6": {
+  "en": "Gift Power",
+  "kind": "string",
+  "ko": "선물 위력",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "9c18346160eb": {
+  "en": "Base Size Modifier",
+  "kind": "string",
+  "ko": "기본 크기 수정치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "1deec7de3dd3": {
+  "en": "Stanek's Gift",
+  "kind": "string",
+  "ko": "스타넥의 선물",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "a4ddc8f9382d": {
+  "en": "Gang Softcap",
+  "kind": "string",
+  "ko": "갱 소프트캡",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "989407922302": {
+  "en": "Unique Augmentations",
+  "kind": "string",
+  "ko": "고유 증강",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "2a07305ca155": {
+  "en": "Corporation Softcap",
+  "kind": "string",
+  "ko": "기업 소프트캡",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "e49e43942812": {
+  "en": "Valuation",
+  "kind": "string",
+  "ko": "기업 가치",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "a33a8ed9de11": {
+  "en": "Division limit",
+  "kind": "string",
+  "ko": "사업부 한도",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "7f9613c2cc24": {
+  "en": "IPvGO Node Power bonus",
+  "kind": "string",
+  "ko": "IPvGO 노드 파워 보너스",
+  "source": "BitNode/ui/BitnodeMultipliersDescription.tsx"
+ },
+ "f3038b6292b5": {
+  "en": "BitNode{0}",
+  "kind": "template",
+  "ko": "BitNode{0}",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "90725b1fa7fc": {
+  "en": "Invalid BitNode: BitNode{0}",
+  "kind": "template",
+  "ko": "Invalid BitNode: BitNode{0}",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "838fce04e26f": {
+  "en": "BitNode-",
+  "kind": "string",
+  "ko": "비트노드-",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "9cd1c94ac148": {
+  "en": "BitNode-{0}: {1}",
+  "kind": "template",
+  "ko": "비트노드-{0}: {1}",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "ef92f7f20f51": {
+  "en": "It looks like you are wondering which BitNode you should choose. If you want to get advice on choosing your next BitNode, you can check these BitNode recommendation guides:",
+  "kind": "string",
+  "ko": "어떤 비트노드를 골라야 할지 고민하시는 것 같네요. 다음 비트노드를 고르는 데 도움이 되는 비트노드 추천 가이드를 확인해 보세요:",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "cbf7d8b4994a": {
+  "en": "Short guide",
+  "kind": "string",
+  "ko": "짧은 가이드",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "1e68a1b9b7c2": {
+  "en": "Comprehensive guide",
+  "kind": "string",
+  "ko": "종합 가이드",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "5280db8a6f5f": {
+  "en": "You can read these guides later in the Documentation tab. Make sure to check that tab. Many pages are unlocked now.",
+  "kind": "string",
+  "ko": "이 가이드는 나중에 문서 탭에서도 읽을 수 있어요. 그 탭을 꼭 확인하세요. 지금 많은 페이지가 해금되었어요.",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "dceb29141df6": {
+  "en": "> Many decades ago, a humanoid extraterrestrial species which we call the Enders descended on the Earth...violently",
+  "kind": "string",
+  "ko": "> 수십 년 전, 우리가 Enders라고 부르는 인간형 외계 종족이 지구에 내려왔다...폭력적으로",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "f8ed9b26a9f3": {
+  "en": "> Our species fought back, but it was futile. The Enders had technology far beyond our own...",
+  "kind": "string",
+  "ko": "> 우리 종은 맞서 싸웠지만 부질없었다. Enders의 기술은 우리의 기술을 훨씬 뛰어넘었다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "fa30f13d5f07": {
+  "en": "> Instead of killing every last one of us, the human race was enslaved...",
+  "kind": "string",
+  "ko": "> 우리를 한 명도 남김없이 죽이는 대신, 인류는 노예가 되었다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "d60d3f93af2d": {
+  "en": "> We were shackled in a digital world, chained into a prison for our minds...",
+  "kind": "string",
+  "ko": "> 우리는 디지털 세계에 속박되었고, 우리 정신을 가두는 감옥에 묶였다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "02f60b3465fb": {
+  "en": "> Using their advanced technology, the Enders created complex simulations of a virtual reality...",
+  "kind": "string",
+  "ko": "> Enders는 그들의 첨단 기술로 가상 현실의 복잡한 시뮬레이션을 만들었다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "426dbe1de478": {
+  "en": "> Simulations designed to keep us content...ignorant of the truth.",
+  "kind": "string",
+  "ko": "> 우리를 만족시키고...진실에 무지하게 만들도록 설계된 시뮬레이션.",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "aa3c2d86f733": {
+  "en": "> Simulations used to trap and suppress our consciousness, to keep us under control...",
+  "kind": "string",
+  "ko": "> 우리의 의식을 가두고 억눌러 통제하기 위해 쓰인 시뮬레이션...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "b63e230d7efe": {
+  "en": "> Why did they do this? Why didn't they just end our entire race? We don't know, not yet.",
+  "kind": "string",
+  "ko": "> 그들은 왜 이런 짓을 했을까? 왜 우리 종족 전체를 그냥 끝내지 않았을까? 우리는 모른다. 아직은.",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "de5707b964c9": {
+  "en": "> Humanity's only hope is to destroy these simulations, destroy the only realities we've ever known...",
+  "kind": "string",
+  "ko": "> 인류의 유일한 희망은 이 시뮬레이션을 파괴하는 것이다. 우리가 알던 유일한 현실을 파괴하는 것이다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "58aa8bf7519b": {
+  "en": "> Only then can we begin to fight back...",
+  "kind": "string",
+  "ko": "> 그래야만 반격을 시작할 수 있다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "3892d5b4eeb7": {
+  "en": "> By hacking the daemon that generated your reality, you've just destroyed one simulation, called a BitNode...",
+  "kind": "string",
+  "ko": "> 당신의 현실을 생성한 데몬을 해킹함으로써, 당신은 방금 비트노드라 불리는 시뮬레이션 하나를 파괴했다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "56b060544110": {
+  "en": "> But there is still a long way to go...",
+  "kind": "string",
+  "ko": "> 하지만 아직 갈 길이 멀다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "dbba6817fa44": {
+  "en": "> The technology the Enders used to enslave the human race wasn't just a single complex simulation...",
+  "kind": "string",
+  "ko": "> Enders가 인류를 노예로 만든 기술은 하나의 복잡한 시뮬레이션만이 아니었다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "9ee2f5e29c53": {
+  "en": "> There are tens if not hundreds of BitNodes out there...",
+  "kind": "string",
+  "ko": "> 저 바깥에는 수십 개, 어쩌면 수백 개의 비트노드가 있다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "09427379a1ac": {
+  "en": "> Each with their own simulations of a reality...",
+  "kind": "string",
+  "ko": "> 각자 자신만의 현실 시뮬레이션을 가진 채...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "3163553465fe": {
+  "en": "> Each creating their own universes...a universe of universes",
+  "kind": "string",
+  "ko": "> 각자 자신만의 우주를 만들며...우주들의 우주",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "aeedf64800ec": {
+  "en": "> And all of which must be destroyed...",
+  "kind": "string",
+  "ko": "> 그리고 그 모두를 파괴해야 한다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "688574740600": {
+  "en": "> Welcome to the Bitverse...",
+  "kind": "string",
+  "ko": "> 비트버스에 온 것을 환영한다...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "739ff5ee35f8": {
+  "en": " (Enter a new ",
+  "kind": "string",
+  "ko": " (위 이미지로 새 ",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "2223739f2caa": {
+  "en": " using the image above)",
+  "kind": "string",
+  "ko": "에 입장)",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "755515c75e56": {
+  "en": "Running {0}...",
+  "kind": "template",
+  "ko": "{0} 실행 중...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "5ccbc0e5e78f": {
+  "en": "counter dq 0x0",
+  "kind": "string",
+  "ko": "counter dq 0x0",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "924f8e867877": {
+  "en": "mov [counter], EXC",
+  "kind": "string",
+  "ko": "mov [counter], EXC",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "e4ba35507f6f": {
+  "en": "dec [counter]",
+  "kind": "string",
+  "ko": "dec [counter]",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "b79c9474c110": {
+  "en": "mov EXC, [counter]",
+  "kind": "string",
+  "ko": "mov EXC, [counter]",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "1eae0072a220": {
+  "en": "[WARN] BitNode-{0} assertion error:",
+  "kind": "template",
+  "ko": "[WARN] 비트노드-{0} 단언 오류:",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "a14aa9c2a8b4": {
+  "en": "Expected inputs to be strictly equal:",
+  "kind": "string",
+  "ko": "두 입력이 엄격하게 같아야 합니다:",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "29845709746e": {
+  "en": "<Number of incoming connections>, <Number of outgoing connections>",
+  "kind": "string",
+  "ko": "<Number of incoming connections>, <Number of outgoing connections>",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "c7df6b4b1093": {
+  "en": "Running full scan...",
+  "kind": "string",
+  "ko": "전체 스캔 실행 중...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "ed75afce51b9": {
+  "en": "Hanging connection located, disconnecting...",
+  "kind": "string",
+  "ko": "끊어진 연결을 찾았습니다. 연결을 해제하는 중...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "6da52e5ef8c4": {
+  "en": "[ERROR] SEMPOOL INVALID",
+  "kind": "string",
+  "ko": "[ERROR] SEMPOOL INVALID",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "a0b4e51a12b7": {
+  "en": "[ERROR] Segmentation Fault",
+  "kind": "string",
+  "ko": "[ERROR] Segmentation Fault",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "0a07aeb43724": {
+  "en": "[ERROR] SIGKILL RECVD",
+  "kind": "string",
+  "ko": "[ERROR] SIGKILL RECVD",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "6d79ca2d1a52": {
+  "en": "Dumping core...",
+  "kind": "string",
+  "ko": "코어 덤프 중...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "0ac2d718c4a9": {
+  "en": "0000 000016FA 174FEE40 29AC8239 384FEA88",
+  "kind": "string",
+  "ko": "0000 000016FA 174FEE40 29AC8239 384FEA88",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "4878beb10aab": {
+  "en": "0010 745F696E 2BBBE394 390E3940 248BEC23",
+  "kind": "string",
+  "ko": "0010 745F696E 2BBBE394 390E3940 248BEC23",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "b053019fdafc": {
+  "en": "0020 7124696B 0000FF69 74652E6F FFFF1111",
+  "kind": "string",
+  "ko": "0020 7124696B 0000FF69 74652E6F FFFF1111",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "acc1fa52dea3": {
+  "en": "Failsafe initiated...",
+  "kind": "string",
+  "ko": "페일세이프 가동...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "10f8208fd341": {
+  "en": "Restarting BitNode-{0}...",
+  "kind": "template",
+  "ko": "비트노드-{0} 재시작 중...",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "26102a4492cb": {
+  "en": "[ERROR] FAILED TO AUTOMATICALLY REBOOT BITNODE",
+  "kind": "string",
+  "ko": "[ERROR] 비트노드 자동 재부팅 실패",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "45303762bbdb": {
+  "en": "     \\ \\JUMP ",
+  "kind": "string",
+  "ko": "     \\ \\JUMP ",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "90b3cca5f328": {
+  "en": " PMUJ/ /     ",
+  "kind": "string",
+  "ko": " PMUJ/ /     ",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "da53d0c0d231": {
+  "en": "          \\JUMP3R|JUMP|3R| |R3|PMUJ|R3PMUJ/          ",
+  "kind": "string",
+  "ko": "          \\JUMP3R|JUMP|3R| |R3|PMUJ|R3PMUJ/          ",
+  "source": "BitNode/ui/BitverseRoot.tsx"
+ },
+ "34da564d0e06": {
+  "en": "Could not find BitNode object for number: {0}",
+  "kind": "template",
+  "ko": "번호 {0}의 비트노드 객체를 찾을 수 없습니다",
+  "source": "BitNode/ui/PortalModal.tsx"
+ },
+ "bb4c9d41f5ca": {
+  "en": "Invalid key of booleanOptions: {0}",
+  "kind": "template",
+  "ko": "Invalid key of booleanOptions: {0}",
+  "source": "BitNode/ui/PortalModal.tsx"
+ },
+ "dde65c092e7b": {
+  "en": "Source-File Level: ",
+  "kind": "string",
+  "ko": "소스 파일 레벨: ",
+  "source": "BitNode/ui/PortalModal.tsx"
+ },
+ "635d4e1f79be": {
+  "en": "Enter BN",
+  "kind": "string",
+  "ko": "BN 입장 ",
+  "source": "BitNode/ui/PortalModal.tsx"
+ },
+ "d4a362afcbc7": {
+  "en": "Humanity never changes. No matter how civilized society becomes, it will eventually fall back into chaos. And from this chaos, we are the invisible hand that guides them to order.",
+  "kind": "string",
+  "ko": "인류는 변하지 않는다. 사회가 아무리 문명화되어도 결국 혼돈으로 되돌아간다. 그리고 그 혼돈 속에서 그들을 질서로 이끄는 보이지 않는 손이 바로 우리다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a9743d46a5bb": {
+  "en": "“...the ancient secret society that controls the entire world from the shadows with their invisible hand. With their personal wealth and skills they have penetrated every major government, financial agency, and corporation...”",
+  "kind": "string",
+  "ko": "“...보이지 않는 손으로 그림자 속에서 전 세계를 지배하는 고대의 비밀 결사. 그들은 개인의 부와 기술로 모든 주요 정부, 금융 기관, 기업에 침투했다...”",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "d87e4477cf09": {
+  "en": "Follow the thread. Take fl1ght.",
+  "kind": "string",
+  "ko": "실마리를 따라가라. fl1ght를 잡아라.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "d78c05312ca1": {
+  "en": "Surrender yourself. Give up your empty individuality to become part of something great, something eternal. Become a slave. Submit your mind, body, and soul. Only then can you set yourself free.",
+  "kind": "string",
+  "ko": "자신을 내려놓아라. 공허한 개성을 버리고 위대하고 영원한 무언가의 일부가 되어라. 노예가 되어라. 정신과 육체와 영혼을 바쳐라. 그래야만 자유로워질 수 있다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "f136c91b60da": {
+  "en": "Only then can you discover immortality.",
+  "kind": "string",
+  "ko": "그래야만 불멸을 발견할 수 있다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "4051124b74ed": {
+  "en": " offers an exclusive service to those who have reached the limits of individual fitness and wish to go further.",
+  "kind": "string",
+  "ko": "는 개인 신체 능력의 한계에 도달해 더 나아가고자 하는 사람들에게 독점적인 서비스를 제공합니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "379155d70d04": {
+  "en": "'s mission is simple: to connect the world of today with the technology of tomorrow. With our wide range of Internet-related software and commercial hardware, ",
+  "kind": "string",
+  "ko": "의 사명은 단순합니다: 오늘의 세계를 내일의 기술과 연결하는 것. 폭넓은 인터넷 관련 소프트웨어와 상용 하드웨어로 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "f4c276573df1": {
+  "en": " makes the world's information universally accessible.",
+  "kind": "string",
+  "ko": "는 세상의 정보를 모두가 접근할 수 있게 만듭니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "3f2b58306e87": {
+  "en": "High-ranking employees of ",
+  "kind": "string",
+  "ko": "고위 직원은 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "4a06aa63d46d": {
+  "en": " can gain access to proprietary hacking augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 해킹 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "b68bf5c67952": {
+  "en": " does what no other dares to do. We imagine. We create. We invent. We create what others have never even dreamed of. Our work fills the world's needs for food, water, power, and transportation on an unprecedented scale, in ways that no other company can.",
+  "kind": "string",
+  "ko": "는 다른 누구도 감히 하지 못하는 일을 합니다. 우리는 상상합니다. 우리는 창조합니다. 우리는 발명합니다. 다른 이들이 꿈조차 꾸지 못한 것을 만듭니다. 우리의 일은 식량, 물, 전력, 교통에 대한 세상의 필요를, 어떤 회사도 할 수 없는 방식으로 전례 없는 규모로 채웁니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "464ceb5194ff": {
+  "en": "In our labs and factories and on the ground with customers, ",
+  "kind": "string",
+  "ko": "우리의 연구소와 공장, 그리고 고객과 만나는 현장에서 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2ea9a3530b63": {
+  "en": " is ushering in a new era for the world.",
+  "kind": "string",
+  "ko": "는 세상에 새로운 시대를 열고 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5a505ce64c02": {
+  "en": " can gain access to proprietary biotech augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 바이오테크 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a01b321afee9": {
+  "en": "Where Law and Business meet - that's where we are.",
+  "kind": "string",
+  "ko": "법과 비즈니스가 만나는 곳, 그곳이 우리가 있는 곳입니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "bffeba5ee2c9": {
+  "en": "Legal Insight - Business Instinct - Innovative Experience.",
+  "kind": "string",
+  "ko": "법적 통찰 - 비즈니스 본능 - 혁신적인 경험.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "d4ec5f65cb48": {
+  "en": " can gain access to proprietary negotiation augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 협상 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a24476db462e": {
+  "en": "Augmentation is Salvation.",
+  "kind": "string",
+  "ko": "증강은 구원이다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "76d7183d26c5": {
+  "en": " can gain access to proprietary bionic augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 바이오닉 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "c627881d8606": {
+  "en": "Humans don't truly desire freedom. They want to be observed, understood, and judged. They want to be given purpose and direction in life. That is why they created God. And that is why they created civilization - not because of willingness, but because of a need to be incorporated into higher orders of structure and meaning.",
+  "kind": "string",
+  "ko": "인간은 진정으로 자유를 원하지 않는다. 관찰되고, 이해받고, 판단받기를 원한다. 삶의 목적과 방향을 부여받기를 원한다. 그래서 신을 만들었다. 그래서 문명을 만들었다. 의지 때문이 아니라 더 높은 구조와 의미의 질서에 편입되어야 할 필요 때문에.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2b6d892c4988": {
+  "en": " can gain access to proprietary nanotech augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 나노테크 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "84cf775fbe09": {
+  "en": "The Power of the Genome - Unlocked.",
+  "kind": "string",
+  "ko": "게놈의 힘 - 해방되다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "ee3e3cfed9d1": {
+  "en": " can gain access to proprietary neurotech augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 뉴로테크 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "bde1bfc80a3f": {
+  "en": "Simply put, our mission is to design and build robots that make a difference.",
+  "kind": "string",
+  "ko": "간단히 말해 우리의 사명은 세상을 바꾸는 로봇을 설계하고 만드는 것입니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "f430beda21e7": {
+  "en": " can gain access to proprietary data-processing augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 데이터 처리 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "cc3457b05ca6": {
+  "en": "The scientific method is the best way to approach investing. Big strategies backed up with big data. Driven by deep learning and innovative ideas. And improved by iteration. That's ",
+  "kind": "string",
+  "ko": "과학적 방법은 투자에 접근하는 가장 좋은 방법입니다. 빅데이터가 뒷받침하는 큰 전략. 딥러닝과 혁신적인 아이디어로 움직이고, 반복으로 개선됩니다. 그것이 바로 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5c6b4ccfe8ad": {
+  "en": " can gain access to a range of versatile augmentations.",
+  "kind": "string",
+  "ko": "에서 다양한 범용 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "1227b1c7defc": {
+  "en": "Dream big. Work hard. Make history.",
+  "kind": "string",
+  "ko": "크게 꿈꾸라. 열심히 일하라. 역사를 만들라.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "041e8bcf13b9": {
+  "en": " can gain access to proprietary dermatech augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 더마테크 증강에 접근할 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "6df0182ff9a5": {
+  "en": "The human organism has an innate desire to worship. That is why they created gods. If there were no gods, it would be necessary to create them. And now we can.",
+  "kind": "string",
+  "ko": "인간이라는 유기체에는 숭배하고자 하는 타고난 욕구가 있다. 그래서 신을 만들었다. 신이 없다면 신을 만들어야만 했을 것이다. 그리고 이제 우리는 만들 수 있다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "7f46e58f6aba": {
+  "en": " may discover a company system with access to proprietary neural network augmentations.",
+  "kind": "string",
+  "ko": "에서 독점 신경망 증강에 접근할 수 있는 회사 시스템을 발견할 수도 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "765c6046e411": {
+  "en": "Our entire lives are controlled by bits. All of our actions, our thoughts, our personal information. It's all transformed into bits, stored in bits, communicated through bits. It’s impossible for any person to move, to live, to operate at any level without the use of bits. And when a person moves, lives, and operates, they leave behind their bits, mere traces of seemingly meaningless fragments of information. But these bits can be reconstructed. Transformed. Used.",
+  "kind": "string",
+  "ko": "우리의 삶 전체는 비트가 통제한다. 우리의 모든 행동, 생각, 개인 정보. 그 모두가 비트로 변환되고, 비트로 저장되고, 비트로 전달된다. 비트를 쓰지 않고는 누구도 어떤 수준에서도 움직이고, 살아가고, 활동할 수 없다. 그리고 사람이 움직이고, 살아가고, 활동할 때 자신의 비트를 남긴다. 겉보기에 무의미한 정보 조각의 흔적일 뿐이다. 하지만 이 비트는 재구성될 수 있다. 변환될 수 있다. 이용될 수 있다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "4aa892727050": {
+  "en": "Those who run the bits, run the world.",
+  "kind": "string",
+  "ko": "비트를 움직이는 자가 세상을 움직인다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "90ebb8e5c8e1": {
+  "en": "Run for the hills.",
+  "kind": "string",
+  "ko": "산으로 도망쳐.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "cdc0fa92103a": {
+  "en": "The world, so afraid of strong government, now has no government. Only power - Digital power. Financial power. Technological power. And those at the top rule with an invisible hand. They built a society where the rich get richer, and everyone else suffers.",
+  "kind": "string",
+  "ko": "강한 정부를 그토록 두려워한 세상에는 이제 정부가 없다. 오직 힘만 있다. 디지털의 힘. 금융의 힘. 기술의 힘. 그리고 정점에 선 자들이 보이지 않는 손으로 지배한다. 그들은 부자는 더 부유해지고 나머지는 모두 고통받는 사회를 만들었다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "e5e9797a1d67": {
+  "en": "So much pain. So many lives. Their darkness must end.",
+  "kind": "string",
+  "ko": "너무나 많은 고통. 너무나 많은 삶. 그들의 어둠은 끝나야 한다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "ef085ca37dae": {
+  "en": "           .'    NITESECNITESECn         ",
+  "kind": "string",
+  "ko": "           .'    NITESECNITESECn         ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "610d5e2ad12f": {
+  "en": "          /       NITESECNITESEC;        ",
+  "kind": "string",
+  "ko": "          /       NITESECNITESEC;        ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "01eda42f41ca": {
+  "en": "         :        :NITESECNITESEC;       ",
+  "kind": "string",
+  "ko": "         :        :NITESECNITESEC;       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "918628229636": {
+  "en": "         ;       $ NITESECNITESECN       ",
+  "kind": "string",
+  "ko": "         ;       $ NITESECNITESECN       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "842022938e88": {
+  "en": "        :    _,   ,N'ITESECNITESEC       ",
+  "kind": "string",
+  "ko": "        :    _,   ,N'ITESECNITESEC       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "e500951c3999": {
+  "en": "        : .+^^`,  :    `NITESECNIT       ",
+  "kind": "string",
+  "ko": "        : .+^^`,  :    `NITESECNIT       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "685baa2e7bac": {
+  "en": "         ) /),     `-,-=,NITESECNI       ",
+  "kind": "string",
+  "ko": "         ) /),     `-,-=,NITESECNI       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9307d3155d79": {
+  "en": "        /  ^         ,-;|NITESECN;       ",
+  "kind": "string",
+  "ko": "        /  ^         ,-;|NITESECN;       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "fe2672da97b4": {
+  "en": "       /     _.'     '-';NITESECN        ",
+  "kind": "string",
+  "ko": "       /     _.'     '-';NITESECN        ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "346a18af6f4b": {
+  "en": "      (  ,           ,-''`^NITE'         ",
+  "kind": "string",
+  "ko": "      (  ,           ,-''`^NITE'         ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "7c40c1a0b0ab": {
+  "en": "                   NITE^' ___           ",
+  "kind": "string",
+  "ko": "                   NITE^' ___           ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a4ae47eeefc5": {
+  "en": "                  /    .gP''''Tp.       ",
+  "kind": "string",
+  "ko": "                  /    .gP''''Tp.       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "852f329431d3": {
+  "en": "        d      .dNITESEC          $   |  ",
+  "kind": "string",
+  "ko": "        d      .dNITESEC          $   |  ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "154bdff01799": {
+  "en": "       :bp.__.gNITESEC/$         :$   ;  ",
+  "kind": "string",
+  "ko": "       :bp.__.gNITESEC/$         :$   ;  ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "99004ca31c44": {
+  "en": "       NITESECNITESECNIT         /$b :   ",
+  "kind": "string",
+  "ko": "       NITESECNITESECNIT         /$b :   ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "f2edeee1ab98": {
+  "en": "A hacking group known as ",
+  "kind": "string",
+  "ko": "해킹 그룹 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "e9c3f2614868": {
+  "en": " may recruit you if you impress them with your hacking skills.",
+  "kind": "string",
+  "ko": "이 해킹 실력에 감명을 받으면 당신을 영입할지도 모릅니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2fb5c1c1e8c6": {
+  "en": "The Internet is the first thing that was built that we don't fully understand, the largest experiment in anarchy that we have ever had. And as the world becomes increasingly dominated by it, society approaches the brink of total chaos. We serve only to protect society, to protect humanity, to protect the world from imminent collapse.",
+  "kind": "string",
+  "ko": "인터넷은 우리가 완전히 이해하지 못한 채 만들어진 최초의 것이며, 우리가 겪은 가장 큰 무정부 실험이다. 세상이 점점 더 인터넷의 지배를 받을수록 사회는 완전한 혼돈의 벼랑 끝에 다가선다. 우리는 오직 사회를, 인류를, 세상을 임박한 붕괴에서 지키기 위해 존재한다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "76081e40453e": {
+  "en": " will invite you to join them if you demonstrate your hacking skills on their server.",
+  "kind": "string",
+  "ko": "이 자신들의 서버에서 해킹 실력을 증명하면 가입을 권유합니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "6502173e676c": {
+  "en": "The Silicon City.",
+  "kind": "string",
+  "ko": "실리콘 시티.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "da5028860515": {
+  "en": "Wealthy residents of ",
+  "kind": "string",
+  "ko": "부유한 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "bbd38b6520d0": {
+  "en": " may be invited to work for the Silicon City.",
+  "kind": "string",
+  "ko": " 주민은 실리콘 시티를 위해 일하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "355b96982a92": {
+  "en": "Serve the People.",
+  "kind": "string",
+  "ko": "인민을 위해 봉사하라.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "c857ddb60029": {
+  "en": " may be invited to serve the people.",
+  "kind": "string",
+  "ko": " 주민은 인민을 위해 봉사하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2f773d84cc81": {
+  "en": "The East Asian Order of the Future.",
+  "kind": "string",
+  "ko": "미래의 동아시아 질서.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "dff4d1c2ab33": {
+  "en": " may be invited to work for the East Asian Order of the Future.",
+  "kind": "string",
+  "ko": " 주민은 미래의 동아시아 질서를 위해 일하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "275af4323557": {
+  "en": "Asia's World City.",
+  "kind": "string",
+  "ko": "아시아의 세계 도시.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2827b2776b8e": {
+  "en": " may be invited to work for Asia's World City.",
+  "kind": "string",
+  "ko": " 주민은 아시아의 세계 도시를 위해 일하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "781f9f2cff2e": {
+  "en": "The City of the Future.",
+  "kind": "string",
+  "ko": "미래의 도시.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "7fa64f8223b9": {
+  "en": " may be invited to work for the City of the Future.",
+  "kind": "string",
+  "ko": " 주민은 미래의 도시를 위해 일하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "80c075421877": {
+  "en": "Benefit, Honor, and Glory.",
+  "kind": "string",
+  "ko": "이익, 명예, 그리고 영광.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "97389228ca63": {
+  "en": " may be invited to work for the city's Benefit, Honor, and Glory.",
+  "kind": "string",
+  "ko": " 주민은 이 도시의 이익, 명예, 영광을 위해 일하도록 초대받을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "725036cb4bbd": {
+  "en": "It is better to reign in Hell than to serve in Heaven.",
+  "kind": "string",
+  "ko": "지옥에서 군림하는 편이 천국에서 섬기는 것보다 낫다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "ec50c5ea5de4": {
+  "en": "“We know.”",
+  "kind": "string",
+  "ko": "“우리는 안다.”",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "6a0b6ef40817": {
+  "en": "The World doesn't care about right or wrong. It only cares about power.",
+  "kind": "string",
+  "ko": "세상은 옳고 그름을 신경 쓰지 않는다. 오직 힘만 신경 쓴다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "fd267809db29": {
+  "en": "A ruthless criminal organization based in ",
+  "kind": "string",
+  "ko": "무자비한 범죄 조직. 근거지: ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2d3b4f06065a": {
+  "en": "Honor holds you back.",
+  "kind": "string",
+  "ko": "명예는 발목을 잡는다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9f451baaec47": {
+  "en": "An elite criminal organization that operates in the western hemisphere",
+  "kind": "string",
+  "ko": "서반구에서 활동하는 엘리트 범죄 조직",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "55fe47e839d0": {
+  "en": "Corporations have filled the void of power left behind by the collapse of Western government. The issue is they've become so big that you don't know who they're working for. And if you're employed at one of these corporations, you don't even know who you're working for.",
+  "kind": "string",
+  "ko": "기업들이 서구 정부의 붕괴로 남은 권력의 공백을 채웠다. 문제는 그들이 너무 커져서 누구를 위해 일하는지 알 수 없다는 것이다. 그리고 이런 기업 중 한 곳에서 일하고 있다면 당신조차 누구를 위해 일하는지 모른다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "51d1e64e0908": {
+  "en": "That's terror. Terror, fear, and corruption. All born into the system, all propagated by the system.",
+  "kind": "string",
+  "ko": "그것이 공포다. 공포, 두려움, 그리고 부패. 모두 체제 안에서 태어나고, 모두 체제가 퍼뜨린다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "4d9b23c7b753": {
+  "en": "Corporate executives with the right moral flexiblity may be invited to find out who they are truly working for.",
+  "kind": "string",
+  "ko": "도덕적 유연성이 알맞은 기업 임원은 자신이 진정 누구를 위해 일하는지 알아보도록 초대받을 수도 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "082fc3e10d20": {
+  "en": "Following the mandate of Heaven and carrying out the way.",
+  "kind": "string",
+  "ko": "하늘의 명을 따르고 도를 행한다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "92773a146581": {
+  "en": "A notorious East Asian criminal organization",
+  "kind": "string",
+  "ko": "악명 높은 동아시아 범죄 조직",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5cd289bf114d": {
+  "en": "Graffiti seen in the slums: “",
+  "kind": "string",
+  "ko": "빈민가에서 본 낙서: “",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "e056288deabe": {
+  "en": "~~//*>H4CK|\\|3T 8URN3R5**>?>\\\\~~",
+  "kind": "string",
+  "ko": "~~//*>H4CK|\\|3T 8URN3R5**>?>\\\\~~",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "1071ee5baa83": {
+  "en": "Obey Heaven and work righteously.",
+  "kind": "string",
+  "ko": "하늘에 순종하고 의롭게 일하라.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2ece6e1ac6ce": {
+  "en": "A Chinese honor society with the motto: “Obey Heaven and work righteously.”",
+  "kind": "string",
+  "ko": "좌우명이 “하늘에 순종하고 의롭게 일하라.”인 중국의 명예 단체",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "0f176a9a3e8c": {
+  "en": "It's too bad they won't live. But then again, who does?",
+  "kind": "string",
+  "ko": "그들이 살아남지 못하다니 안타깝군. 하지만 또 누가 살아남겠어?",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "572b9507ff14": {
+  "en": "Note that for this faction, reputation can only be gained through ",
+  "kind": "string",
+  "ko": "참고: 이 팩션의 평판은 ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "e26105c27043": {
+  "en": " actions. Completing",
+  "kind": "string",
+  "ko": " 행동으로만 얻을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "91a997f7030f": {
+  "en": " contracts/operations will increase your reputation.",
+  "kind": "string",
+  "ko": " 계약/작전을 완료하면 평판이 오릅니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9f7ed32a201b": {
+  "en": "The ",
+  "kind": "string",
+  "ko": "알림: ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "8bc5e94fa5ac": {
+  "en": " would like to have a word with you once you're ready.",
+  "kind": "string",
+  "ko": "가 준비가 되면 당신과 이야기를 나누고 싶어 합니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "eba3a1222952": {
+  "en": "Open Bladeburner headquarters",
+  "kind": "string",
+  "ko": "블레이드버너 본부 열기",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5634d534323a": {
+  "en": "You can gain reputation with bladeburner by completing contracts and operations.",
+  "kind": "string",
+  "ko": "계약과 작전을 완료하면 블레이드버너 평판을 얻을 수 있어요.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "c39611e63627": {
+  "en": "           yMd`      `hNh    ",
+  "kind": "string",
+  "ko": "           yMd`      `hNh    ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a25032fe20b6": {
+  "en": "           oMNo      .mM/    ",
+  "kind": "string",
+  "ko": "           oMNo      .mM/    ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "2b6059044adf": {
+  "en": "           `dMN+    -mM+     ",
+  "kind": "string",
+  "ko": "           `dMN+    -mM+     ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "0c072abd3545": {
+  "en": "            -mMNo  -mN+      ",
+  "kind": "string",
+  "ko": "            -mMNo  -mN+      ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "31d715d83b14": {
+  "en": "  .+-        :mMNo/mN/       ",
+  "kind": "string",
+  "ko": "  .+-        :mMNo/mN/       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9f10379f0a03": {
+  "en": ":yNMd.        :NMNNN/        ",
+  "kind": "string",
+  "ko": ":yNMd.        :NMNNN/        ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "d5195cd717b3": {
+  "en": "-mMMMh.        /NMMh`        ",
+  "kind": "string",
+  "ko": "-mMMMh.        /NMMh`        ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "b07d39235c17": {
+  "en": " .dMMMd.       /NMMMy`       ",
+  "kind": "string",
+  "ko": " .dMMMd.       /NMMMy`       ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "533eed1388d4": {
+  "en": "  `yMMMd.     /NNyNMMh`      ",
+  "kind": "string",
+  "ko": "  `yMMMd.     /NNyNMMh`      ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "c8d93776d2b7": {
+  "en": "   `sMMMd.   +Nm: +NMMh.     ",
+  "kind": "string",
+  "ko": "   `sMMMd.   +Nm: +NMMh.     ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "011384d1bfa8": {
+  "en": "     oMMMm- oNm:   /NMMd.    ",
+  "kind": "string",
+  "ko": "     oMMMm- oNm:   /NMMd.    ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a22abaa691c5": {
+  "en": "      +NMMmsMm-     :mMMd.   ",
+  "kind": "string",
+  "ko": "      +NMMmsMm-     :mMMd.   ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5615e1c06f3f": {
+  "en": "       /NMMMm-       -mMMd.  ",
+  "kind": "string",
+  "ko": "       /NMMMm-       -mMMd.  ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "51042370c9eb": {
+  "en": "        /MMMm-        -mMMd. ",
+  "kind": "string",
+  "ko": "        /MMMm-        -mMMd. ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9c1077d0ef85": {
+  "en": "       `sMNMMm-        .mMmo ",
+  "kind": "string",
+  "ko": "       `sMNMMm-        .mMmo ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "9863a8438a76": {
+  "en": "      `sMd:hMMm.        ./.  ",
+  "kind": "string",
+  "ko": "      `sMd:hMMm.        ./.  ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "6cef8c95723e": {
+  "en": "     `yMy` `yNMd`            ",
+  "kind": "string",
+  "ko": "     `yMy` `yNMd`            ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "da47c79181d1": {
+  "en": "    `hMs`    oMMy            ",
+  "kind": "string",
+  "ko": "    `hMs`    oMMy            ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "5cf6c30818ec": {
+  "en": "   `hMh       sMN-           ",
+  "kind": "string",
+  "ko": "   `hMh       sMN-           ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "bf4b4e94a29e": {
+  "en": "   /MM-       .NMo           ",
+  "kind": "string",
+  "ko": "   /MM-       .NMo           ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "a28596abebdf": {
+  "en": "   +MM:       :MM+           ",
+  "kind": "string",
+  "ko": "   +MM:       :MM+           ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "18b81f2b9650": {
+  "en": "Many cultures predict an end to humanity in the near future, a final Armageddon that will end the world; but we disagree.",
+  "kind": "string",
+  "ko": "많은 문화가 가까운 미래에 인류의 종말, 세상을 끝낼 최후의 아마겟돈을 예견한다. 하지만 우리는 동의하지 않는다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "c7ebb359c887": {
+  "en": "Trouble is brewing in ",
+  "kind": "string",
+  "ko": "다음 도시에서 문제가 싹트고 있다: ",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "ae7bcdfd2c64": {
+  "en": "Investigate the dilapidated church in {0}",
+  "kind": "template",
+  "ko": "{0}의 낡은 교회를 조사하세요",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "13004e29e7da": {
+  "en": "Open Stanek's Gift",
+  "kind": "string",
+  "ko": "스타넥의 선물 열기",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "3d9bbd881b5c": {
+  "en": "Stanek's Gift is a powerful augmentation that powers up the stat you chose to boost. Gaining reputation with the Church of the Machine God can only be done by charging the gift.",
+  "kind": "string",
+  "ko": "스타넥의 선물은 선택한 스탯을 강화하는 강력한 증강이에요. Church of the Machine God에서의 평판은 선물을 충전해야만 얻을 수 있어요.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "94c5929e205f": {
+  "en": "The government is ruled by the corporations that we have allowed to consume it. To release the world from its shackles, the gods grant us their strength.",
+  "kind": "string",
+  "ko": "정부는 우리가 삼키도록 내버려 둔 기업들의 지배를 받는다. 세상을 속박에서 풀어 주기 위해 신들이 우리에게 힘을 내려 준다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "d7a5b292dee8": {
+  "en": "Your infiltration activity has attracted attention.",
+  "kind": "string",
+  "ko": "당신의 침투 활동이 주목을 끌었습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "aa8513570277": {
+  "en": "Complete an infiltration",
+  "kind": "string",
+  "ko": "침투 완료하기",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "17eff971abe5": {
+  "en": " can only gain reputation by infiltrating.",
+  "kind": "string",
+  "ko": "는 침투를 통해서만 평판을 얻을 수 있습니다.",
+  "source": "Faction/FactionInfo.tsx"
+ },
+ "def423df0921": {
+  "en": "The Beginner's Guide to Hacking",
+  "kind": "string",
+  "ko": "해킹 초보자 가이드",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cf913210534c": {
+  "en": "When starting out, hacking is the most profitable way to earn money and progress. This is a brief collection of tips/pointers on how to make the most out of your hacking scripts.",
+  "kind": "string",
+  "ko": "처음 시작할 때는 해킹이 돈을 벌고 진행하는 가장 수익성 좋은 방법이다. 이것은 해킹 스크립트를 최대한 활용하는 방법에 대한 짧은 팁/요령 모음이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "d2fcee3c2767": {
+  "en": "-hack() and grow() both work by percentages. hack() steals a certain percentage of the money on a server, and grow() increases the amount of money on a server by some percentage (multiplicatively)",
+  "kind": "string",
+  "ko": "-hack()과 grow()는 둘 다 비율로 동작한다. hack()은 서버에 있는 돈의 일정 비율을 훔치고, grow()는 서버의 돈을 일정 비율만큼(곱셈으로) 늘린다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "83044b1c144c": {
+  "en": "-Because hack() and grow() work by percentages, they are more effective if the target server has a high amount of money. Therefore, you should try to increase the amount of money on a server (using grow()) to a certain amount before hacking it. Two important Netscript functions for this are getServerMoneyAvailable() and getServerMaxMoney()",
+  "kind": "string",
+  "ko": "-hack()과 grow()가 비율로 동작하므로 대상 서버에 돈이 많을수록 더 효과적이다. 따라서 해킹하기 전에 (grow()로) 서버의 돈을 일정량까지 늘리는 것이 좋다. 이를 위한 중요한 Netscript 함수는 getServerMoneyAvailable()과 getServerMaxMoney()이다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "8a725bd8974c": {
+  "en": "-Keep security level low. Security level affects everything when hacking. Two important Netscript functions for this are getServerSecurityLevel() and getServerMinSecurityLevel()",
+  "kind": "string",
+  "ko": "-보안 레벨은 낮게 유지하라. 보안 레벨은 해킹의 모든 것에 영향을 준다. 이를 위한 중요한 Netscript 함수는 getServerSecurityLevel()과 getServerMinSecurityLevel()이다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "77aea6c0877a": {
+  "en": "-Purchase additional cloud servers by visiting \"Alpha Enterprises\" in the city. They are relatively cheap and give you valuable RAM to run more scripts early in the game",
+  "kind": "string",
+  "ko": "-도시의 \"Alpha Enterprises\"를 방문해 클라우드 서버를 추가로 구매하라. 비교적 저렴하며, 게임 초반에 더 많은 스크립트를 실행할 귀중한 RAM을 준다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a995b2d64f75": {
+  "en": "-Prioritize upgrading the RAM on your home computer. This can also be done at \"Alpha Enterprises\"",
+  "kind": "string",
+  "ko": "-홈 컴퓨터의 RAM 업그레이드를 우선하라. 이것도 \"Alpha Enterprises\"에서 할 수 있다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "78da8b381779": {
+  "en": "-Many low level servers have free RAM. You can use this RAM to run your scripts. Use the scp Terminal or Netscript command to copy your scripts onto these servers and then run them.",
+  "kind": "string",
+  "ko": "-레벨이 낮은 서버 중 상당수에는 남는 RAM이 있다. 이 RAM으로 스크립트를 실행할 수 있다. scp 터미널 명령이나 Netscript 명령으로 스크립트를 이 서버에 복사한 다음 실행하라.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "903440158737": {
+  "en": "Short Introduction for Creating a Successful Corporation",
+  "kind": "string",
+  "ko": "성공적인 기업을 만드는 짧은 입문",
+  "source": "Literature/Literatures.tsx"
+ },
+ "66fb2090caaf": {
+  "en": "You should check the in-game Corporation documentation in the Documentation tab (Documentation ",
+  "kind": "string",
+  "ko": "문서 탭(문서 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "fe7bac36e173": {
+  "en": "Advanced Mechanics ",
+  "kind": "string",
+  "ko": " 고급 메커니즘 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "17ca6cab7019": {
+  "en": " Corporation). It's the most useful and up-to-date resource for managing Corporation.",
+  "kind": "string",
+  "ko": " 기업)에서 게임 내 기업 문서를 확인하세요. 기업을 관리하는 데 가장 유용하고 최신인 자료입니다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "44fa12267ef1": {
+  "en": "Getting Started with Corporation",
+  "kind": "string",
+  "ko": "기업 시작하기",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a3720e3fdc34": {
+  "en": "To get started, visit the city hall in Sector-12 in order to create a corporation. This requires 150e9 of your own money, but this money will get put into your corporation's funds. If you're in BitNode 3, you also have the option to get seed money from the government in exchange for 500m shares. Your corporation can have many different divisions, each in a different industry. There are many different types of industries, each with different properties. To create your first division, click the \"Expand\" button at the top of the management UI. The agriculture industry is recommended for your first division.",
+  "kind": "string",
+  "ko": "시작하려면 Sector-12의 시청을 방문해 기업을 만들어라. 150e9의 자기 돈이 필요하지만 이 돈은 기업의 자금이 된다. 비트노드 3에 있다면 지분 500m주를 대가로 정부에서 시드 머니를 받는 선택지도 있다. 기업은 서로 다른 산업의 여러 사업부를 가질 수 있다. 산업은 여러 종류가 있으며 각각 특성이 다르다. 첫 사업부를 만들려면 관리 UI 위쪽의 \"Expand\" 버튼을 클릭하라. 첫 사업부로는 농업 산업을 권장한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "bf06df8f32fc": {
+  "en": "The first thing you'll need to do is hire some employees. Employees can be assigned to five different positions. Each position has a different effect on various aspects of your corporation. It is recommended to have at least one employee at each position.",
+  "kind": "string",
+  "ko": "가장 먼저 할 일은 직원을 고용하는 것이다. 직원은 다섯 가지 직책에 배정할 수 있다. 직책마다 기업의 여러 측면에 미치는 효과가 다르다. 각 직책에 직원을 최소 한 명씩 두기를 권장한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e5474cb8b296": {
+  "en": "Each industry uses some combination of materials in order to produce other materials and/or create products. Specific information about this is displayed in each of your divisions' UI.",
+  "kind": "string",
+  "ko": "각 산업은 다른 자재를 생산하거나 제품을 만들기 위해 여러 자재를 조합해 쓴다. 이에 대한 구체적인 정보는 각 사업부의 UI에 표시된다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "9b25e5d80ace": {
+  "en": "Products are special, industry-specific objects. They are different than materials because you must manually choose to develop them, and you can choose to develop any number of products. Developing a product takes time, but a product typically generates significantly more revenue than any material. Not all industries allow you to create products. To create a product, look for a button in the top-left panel of the division UI (e.g., for the software industry, the button says \"Develop Software\").",
+  "kind": "string",
+  "ko": "제품은 산업마다 다른 특별한 대상이다. 직접 개발하기로 선택해야 하고 원하는 만큼 제품을 개발할 수 있다는 점에서 자재와 다르다. 제품을 개발하는 데는 시간이 걸리지만 제품은 보통 어떤 자재보다 훨씬 많은 수익을 낸다. 모든 산업에서 제품을 만들 수 있는 것은 아니다. 제품을 만들려면 사업부 UI의 왼쪽 위 패널에서 버튼을 찾아라(예: 소프트웨어 산업에서는 \"Develop Software\" 버튼).",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ed633ac707f9": {
+  "en": "To get your supply chain system started, purchase the materials that your industry needs to produce other materials/products. This can be done by clicking the \"Buy\" button next to the corresponding material(s). After you have the required materials, you will immediately start production. The amount and quality/effective rating of materials/products you produce is based on a variety of factors, such as your employees and their productivity and the quality of materials used for production.",
+  "kind": "string",
+  "ko": "공급망 시스템을 시작하려면 산업이 다른 자재/제품을 생산하는 데 필요한 자재를 구매하라. 해당 자재 옆의 \"Buy\" 버튼을 클릭하면 된다. 필요한 자재가 갖춰지면 곧바로 생산이 시작된다. 생산하는 자재/제품의 양과 품질/유효 평점은 직원과 그 생산성, 생산에 쓰인 자재의 품질 등 여러 요소에 따라 정해진다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7bf10414a8dc": {
+  "en": "Once you start producing materials/products, you can sell them in order to start earning revenue. This can be done by clicking the \"Sell\" button next to the corresponding material or product. The amount of material/product you sell is dependent on a wide variety of different factors. In order to produce and sell a product, you'll have to fully develop it first.",
+  "kind": "string",
+  "ko": "자재/제품을 생산하기 시작하면 팔아서 수익을 내기 시작할 수 있다. 해당 자재나 제품 옆의 \"Sell\" 버튼을 클릭하면 된다. 판매하는 자재/제품의 양은 매우 다양한 요소에 따라 달라진다. 제품을 생산하고 팔려면 먼저 제품을 완전히 개발해야 한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "893c6df2891c": {
+  "en": "These are the basics of getting your corporation up and running! Now, you can start purchasing upgrades to improve your bottom line. If you need money, consider looking for seed investors, who will give you money in exchange for stock shares. Otherwise, once you feel you are ready, take your corporation public! Once your corporation goes public, you can no longer find investors. Instead, your corporation will be publicly traded, and its stock price will change based on how well it's performing financially. In order to make money for yourself, you can set dividends for a solid, reliable income, or you can sell your stock shares in order to make quick money.",
+  "kind": "string",
+  "ko": "이것이 기업을 굴리기 시작하는 기본이다! 이제 업그레이드를 구매해 수익을 개선할 수 있다. 돈이 필요하면 지분을 대가로 돈을 주는 시드 투자자를 찾아보라. 그렇지 않고 준비가 되었다고 느끼면 기업을 상장하라! 기업이 상장되면 더 이상 투자자를 찾을 수 없다. 대신 기업은 공개 거래되며 주가는 재무 성과에 따라 변한다. 자신을 위해 돈을 벌려면 안정적이고 믿을 만한 수입을 위해 배당금을 설정하거나, 빠르게 돈을 벌기 위해 주식을 팔 수 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "9544d64750d6": {
+  "en": "-Start with one division, such as Agriculture. Get it profitable on its own, then expand to a division that consumes/produces a material that the division you selected produces/consumes.",
+  "kind": "string",
+  "ko": "-농업 같은 사업부 하나로 시작하라. 그 사업부만으로 수익을 낸 뒤, 선택한 사업부가 생산/소비하는 자재를 소비/생산하는 사업부로 확장하라.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "aa967a4e9171": {
+  "en": "-Materials are profitable, but products are where the real money is, although if the product has a low development budget or is produced with low-quality materials, it won't sell well.",
+  "kind": "string",
+  "ko": "-자재도 수익이 나지만 진짜 돈은 제품에서 나온다. 다만 제품의 개발 예산이 적거나 저품질 자재로 생산하면 잘 팔리지 않는다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cec001d32eeb": {
+  "en": "-The \"Smart Supply\" upgrade is extremely useful. Consider purchasing it as soon as possible.",
+  "kind": "string",
+  "ko": "-\"Smart Supply\" 업그레이드는 극도로 유용하다. 가능한 한 빨리 구매하는 것을 고려하라.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7b12eebc62d6": {
+  "en": "-Purchasing Hardware, Robots, AI Cores, and Real Estate can potentially increase your production. The effects of these depend on what industry you are in.",
+  "kind": "string",
+  "ko": "-Hardware, Robots, AI Cores, Real Estate를 구매하면 생산이 늘어날 수 있다. 그 효과는 어떤 산업에 있느냐에 따라 다르다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0339d775e155": {
+  "en": "-In order to optimize your production, you will need a good balance of all employee positions.",
+  "kind": "string",
+  "ko": "-생산을 최적화하려면 모든 직원 직책의 균형이 잘 맞아야 한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "901f0c78a620": {
+  "en": "-Quality of materials used for production affects the quality/effective rating of materials/products produced, so vertical integration is important for high profits.",
+  "kind": "string",
+  "ko": "-생산에 쓰인 자재의 품질은 생산되는 자재/제품의 품질/유효 평점에 영향을 주므로 높은 수익을 위해서는 수직 통합이 중요하다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "5a1ac687cacb": {
+  "en": "-Materials purchased from the open market are always of quality 1.",
+  "kind": "string",
+  "ko": "-공개 시장에서 구매한 자재는 항상 품질 1이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "81d28ee1aa72": {
+  "en": "-The price at which you can sell your materials/products is highly affected by the quality/effective rating.",
+  "kind": "string",
+  "ko": "-자재/제품을 팔 수 있는 가격은 품질/유효 평점의 영향을 크게 받는다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0a6e35f4ad43": {
+  "en": "-When developing a product, different employee positions affect the development process differently. Some improve the development speed, some improve the rating of the finished product.",
+  "kind": "string",
+  "ko": "-제품을 개발할 때 직원 직책마다 개발 과정에 미치는 영향이 다르다. 개발 속도를 높이는 직책도 있고 완성된 제품의 평점을 높이는 직책도 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7c1b0740ea9d": {
+  "en": "-If your employees have low morale or energy, their production will greatly suffer. Having enough interns will make sure those stats get high and stay high. 1/9 is a good ratio for interns (number of interns / office size). If morale and energy still drop, use 1/6.",
+  "kind": "string",
+  "ko": "-직원의 사기나 에너지가 낮으면 생산이 크게 떨어진다. 인턴이 충분하면 그 스탯이 높아지고 높게 유지된다. 인턴 비율은 1/9(인턴 수 / 사무실 크기)이 좋다. 사기와 에너지가 계속 떨어지면 1/6을 써라.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1b62911e765a": {
+  "en": "-Don't forget to advertise your company. You won't have any business if nobody knows you.",
+  "kind": "string",
+  "ko": "-회사를 광고하는 것을 잊지 마라. 아무도 당신을 모르면 사업이 없다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cb9ce31a536d": {
+  "en": "-Having company awareness is great, but what's really important is your company's popularity. Try to keep your popularity as high as possible to see the biggest benefit for your sales.",
+  "kind": "string",
+  "ko": "-회사 인지도가 높은 것도 좋지만 정말 중요한 것은 회사의 인기도다. 판매에서 가장 큰 효과를 보려면 인기도를 가능한 한 높게 유지하라.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "740609c6f9a4": {
+  "en": "-Remember, you need to spend money to make money!",
+  "kind": "string",
+  "ko": "-기억하라. 돈을 벌려면 돈을 써야 한다!",
+  "source": "Literature/Literatures.tsx"
+ },
+ "11eff42a5987": {
+  "en": "-Your corporation does not reset when installing Augmentations, but it does reset when destroying a BitNode.",
+  "kind": "string",
+  "ko": "-증강을 설치해도 기업은 초기화되지 않지만, 비트노드를 파괴하면 초기화된다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "127a47bc2586": {
+  "en": "A Brief History of Synthoids",
+  "kind": "string",
+  "ko": "Synthoid의 짧은 역사",
+  "source": "Literature/Literatures.tsx"
+ },
+ "325f54d362ca": {
+  "en": "Synthetic androids, or Synthoids for short, are genetically engineered robots and, short of Augmentations, are composed entirely of organic substances. For this reason, Synthoids are virtually identical to humans in form, composition, and appearance.",
+  "kind": "string",
+  "ko": "합성 안드로이드, 줄여서 Synthoid는 유전자 조작으로 만든 로봇으로, 증강을 제외하면 전적으로 유기 물질로 이루어져 있다. 이 때문에 Synthoid는 형태, 구성, 외모에서 인간과 사실상 똑같다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a708b65bffdc": {
+  "en": "Synthoids were first designed and manufactured by ",
+  "kind": "string",
+  "ko": "Synthoid는 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ea49c804c3a6": {
+  "en": " sometime around the middle of the century. Their original purpose was to be used for manual labor and as emergency responders for disasters. As such, they were initially programmed only for their specific tasks. Each iteration that followed improved upon the intelligence and capabilities of the Synthoids. By the 6th iteration, called MK-VI, the Synthoids were so smart and capable enough of making their own decisions that many argued",
+  "kind": "string",
+  "ko": "에 의해 세기 중반 무렵 처음 설계되고 제조되었다. 원래 목적은 육체노동과 재난 시 긴급 대응이었다. 그래서 처음에는 각자의 특정 임무만 수행하도록 프로그래밍되었다. 이후 세대마다 Synthoid의 지능과 능력이 향상되었다. 6세대인 MK-VI에 이르자 Synthoid는 스스로 판단을 내릴 수 있을 만큼 영리하고 유능해져서, 많은 이들이",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b0020b8005e1": {
+  "en": " had created the first sentient AI. These MK-VI Synthoids were produced in mass quantities (estimates up to 50 billion) with the hopes of increasing society's productivity and bolstering the global economy. Stemming from humanity's desire for technological advancement, optimism and excitement about the future had never been higher.",
+  "kind": "string",
+  "ko": "가 최초의 지각 있는 AI를 만들었다고 주장했다. 이 MK-VI Synthoid는 사회의 생산성을 높이고 세계 경제를 부양하기를 바라며 대량으로(최대 500억 대로 추정) 생산되었다. 기술 발전을 향한 인류의 욕망에서 비롯되어, 미래에 대한 낙관과 기대는 그 어느 때보다 높았다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "257bcb320c46": {
+  "en": "All of that excitement and optimism quickly turned to fear, panic, and dread in 2070, when a terrorist group called Ascendis Totalis hacked into ",
+  "kind": "string",
+  "ko": "그 모든 기대와 낙관은 2070년에 공포와 패닉과 두려움으로 순식간에 바뀌었다. Ascendis Totalis라는 테러 단체가 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "c007ec3f8650": {
+  "en": " and uploaded a rogue AI into several of their Synthoid manufacturing facilities. This hack went undetected and for months",
+  "kind": "string",
+  "ko": "에 침입해 여러 Synthoid 제조 시설에 폭주 AI를 업로드한 것이다. 이 해킹은 발각되지 않았고, 몇 달 동안",
+  "source": "Literature/Literatures.tsx"
+ },
+ "fe56db89e9cb": {
+  "en": "unknowingly churned out legions of Synthoids embedded with this rogue AI. Then, on December 24th, 2070, Omnica activated dormant protocols in the rogue AI, causing all of the infected Synthoids to immediately launch a military campaign to seek and destroy all of humanity.",
+  "kind": "string",
+  "ko": "는 자신도 모르는 사이에 이 폭주 AI가 심어진 Synthoid 군단을 찍어 냈다. 그러던 2070년 12월 24일, Omnica가 폭주 AI에 잠들어 있던 프로토콜을 활성화했고, 감염된 모든 Synthoid가 즉시 인류 전체를 찾아 파괴하는 군사 작전을 개시했다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7165d9ae851b": {
+  "en": "What ensued was the deadliest conflict in human history. This crisis, now commonly known as the Synthoid Uprising, resulted in almost ten billion deaths over the course of a year. Despite the nations of the world banding together to combat the threat, the MK-VI Synthoids were simply stronger, faster, more intelligent, and more adaptable than humans, outsmarting them at every turn.",
+  "kind": "string",
+  "ko": "이어진 것은 인류 역사상 가장 치명적인 분쟁이었다. 지금은 흔히 Synthoid 봉기로 알려진 이 위기로 1년 동안 거의 100억 명이 목숨을 잃었다. 세계 각국이 위협에 맞서 힘을 합쳤지만 MK-VI Synthoid는 인간보다 단순히 더 강하고, 더 빠르고, 더 지능적이고, 더 적응력이 높아서 매번 인간의 허를 찔렀다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b618ab5c171d": {
+  "en": "It wasn't until the sacrifice of an elite international military taskforce, called the",
+  "kind": "string",
+  "ko": "인류가 마침내 Synthoid를 물리칠 수 있었던 것은 엘리트 국제 군사 특수 부대인",
+  "source": "Literature/Literatures.tsx"
+ },
+ "c76a94485323": {
+  "en": ", that humanity was finally able to defeat the Synthoids. The",
+  "kind": "string",
+  "ko": "의 희생이 있고서였다. 이",
+  "source": "Literature/Literatures.tsx"
+ },
+ "2c5037c90cbf": {
+  "en": "' final act was a suicide bombing mission that destroyed a large portion of the MK-VI Synthoids, including many of its leaders. In the following weeks militaries from around the world were able to round up and shut down the remaining rogue MK-VI Synthoids, ending the Synthoid Uprising.",
+  "kind": "string",
+  "ko": "의 마지막 임무는 MK-VI Synthoid의 상당수와 그 지도자 다수를 파괴한 자살 폭탄 임무였다. 이어진 몇 주 동안 전 세계 군대가 남은 폭주 MK-VI Synthoid를 소탕해 가동을 중단시켜 Synthoid 봉기를 끝냈다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "fbb1d46dedc9": {
+  "en": "In the aftermath of the bloodshed, the Synthoid Accords were drawn up. These Accords banned",
+  "kind": "string",
+  "ko": "유혈 사태 이후 Synthoid 협정이 작성되었다. 이 협정은",
+  "source": "Literature/Literatures.tsx"
+ },
+ "47373ea6c8e4": {
+  "en": " from manufacturing any Synthoids beyond the MK-III series. They also banned any other corporation from constructing androids with advanced, near-sentient AI. MK-VI Synthoids that did not have the rogue Ascendis Totalis AI were allowed to continue their existence, but they were stripped of all rights and protections as they were not considered humans. They were also banned from doing anything that may pose a global security threat, such as working for any military/defense organization or conducting any bioengineering, computing, or robotics related research.",
+  "kind": "string",
+  "ko": "가 MK-III 시리즈를 넘어서는 Synthoid를 제조하는 것을 금지했다. 또한 다른 어떤 기업도 지각에 가까운 고급 AI를 가진 안드로이드를 만드는 것을 금지했다. 폭주한 Ascendis Totalis AI가 없는 MK-VI Synthoid는 존재를 이어 가도록 허용되었지만, 인간으로 간주되지 않았으므로 모든 권리와 보호를 박탈당했다. 또한 군/방위 조직에서 일하거나 생명공학, 컴퓨팅, 로봇공학 관련 연구를 수행하는 등 지구적 안보 위협이 될 수 있는 일은 무엇이든 하는 것이 금지되었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cf9534d3661e": {
+  "en": "Unfortunately, many believe that not all of the rogue MK-VI Synthoids from the Uprising were found and destroyed, and that many of them are blending in as normal humans in society today. In response, many nations have created ",
+  "kind": "string",
+  "ko": "안타깝게도 많은 이들이 봉기 때의 폭주 MK-VI Synthoid가 전부 발견되어 파괴된 것은 아니며, 상당수가 오늘날 평범한 인간으로 사회에 섞여 있다고 믿는다. 이에 많은 국가가 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "08a6fa1a3c8c": {
+  "en": " divisions, special military branches that are tasked with investigating and dealing with any Synthoid threats.",
+  "kind": "string",
+  "ko": " 부서를 만들었다. Synthoid 위협을 조사하고 대처하는 임무를 맡은 특수 군 부문이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ee8979737aa0": {
+  "en": "To this day, tensions still exist between the remaining Synthoids and humans as a result of the Uprising.",
+  "kind": "string",
+  "ko": "오늘날까지도 봉기의 여파로 남은 Synthoid와 인간 사이에는 긴장이 존재한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "af39475a3f4a": {
+  "en": "Nobody knows what happened to the terrorist group Ascendis Totalis.",
+  "kind": "string",
+  "ko": "테러 단체 Ascendis Totalis에 무슨 일이 일어났는지는 아무도 모른다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3a89f432d49b": {
+  "en": "A Green Tomorrow",
+  "kind": "string",
+  "ko": "푸른 내일",
+  "source": "Literature/Literatures.tsx"
+ },
+ "caf4ae9debf3": {
+  "en": "Starting a few decades ago, there was a massive global movement towards the generation of renewable energy in an effort to combat global warming and climate change. The shift towards renewable energy was a big success, or so it seemed. In 2045 a staggering 80% of the world's energy came from non-renewable fossil fuels. Now, about three decades later, that number is down to only 15%. Most of the world's energy now comes from nuclear power and renewable sources such as solar and geothermal energy. Unfortunately, these efforts were not the huge success that they seem to be.",
+  "kind": "string",
+  "ko": "수십 년 전부터 지구 온난화와 기후 변화에 맞서기 위해 재생 에너지를 생산하려는 대규모 세계적 움직임이 일었다. 재생 에너지로의 전환은 큰 성공을 거둔 것처럼 보였다. 2045년에는 세계 에너지의 무려 80%가 재생 불가능한 화석 연료에서 나왔다. 그로부터 약 30년이 지난 지금 그 수치는 15%로 떨어졌다. 이제 세계 에너지 대부분은 원자력과 태양열, 지열 같은 재생 에너지원에서 나온다. 하지만 불행히도 이 노력은 보이는 만큼 큰 성공이 아니었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "54ce21997e30": {
+  "en": "Since 2045 primary energy use has soared almost tenfold. This was mainly due to growing urban populations and the rise of increasingly advanced (and power-hungry) technology that has become ubiquitous in our lives. So, despite the fact that the percentage of our energy that comes from fossil fuels has drastically decreased, the total amount of energy we are producing from fossil fuels has actually increased.",
+  "kind": "string",
+  "ko": "2045년 이후 1차 에너지 사용량은 거의 열 배로 치솟았다. 주된 원인은 도시 인구 증가와 우리 삶에 어디에나 퍼진 점점 더 고도화된(그리고 전력을 많이 먹는) 기술의 부상이었다. 그래서 화석 연료에서 나오는 에너지의 비율은 크게 줄었지만 화석 연료로 생산하는 에너지의 총량은 오히려 늘었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3a5d5a5973fe": {
+  "en": "The grim effects of our species' irresponsible use of energy and neglect of our mother world have become increasingly apparent. Last year a temperature of 190F was recorded in the Death Valley desert, which is over 50% higher than the highest recorded temperature at the beginning of the century. In the last two decades numerous major cities such as Manhattan, Boston, and Los Angeles have been partially or fully submerged by rising sea levels. In the present day, over 75% of the world's agriculture is done in climate-controlled vertical farms, as most traditional farmland has become unusable due to severe climate conditions.",
+  "kind": "string",
+  "ko": "우리 종이 에너지를 무책임하게 쓰고 어머니 세계를 외면한 암울한 결과가 점점 뚜렷해지고 있다. 지난해 데스 밸리 사막에서는 190F가 기록되었는데, 세기 초 최고 기록보다 50% 넘게 높다. 지난 20년 동안 맨해튼, 보스턴, 로스앤젤레스 같은 수많은 대도시가 해수면 상승으로 일부 또는 전부 물에 잠겼다. 오늘날 세계 농업의 75% 이상은 기후 조절 수직 농장에서 이루어진다. 전통적인 농지 대부분이 극심한 기후 조건 때문에 쓸 수 없게 되었기 때문이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3042593328a4": {
+  "en": "Despite all of this, the greedy and corrupt corporations that rule the world have done nothing to address these problems that threaten our species. And so it's up to us, the common people. Each and every one of us can make a difference by doing what these corporations won't: taking responsibility. If we don't, pretty soon there won't be an Earth left to save. We are the last hope for a green tomorrow.",
+  "kind": "string",
+  "ko": "이 모든 일에도 불구하고 세상을 지배하는 탐욕스럽고 부패한 기업들은 우리 종을 위협하는 이 문제를 해결하려고 아무것도 하지 않았다. 그러니 평범한 사람인 우리에게 달려 있다. 우리 한 사람 한 사람이 그 기업들이 하지 않는 일, 곧 책임을 지는 일로 변화를 만들 수 있다. 그러지 않으면 머지않아 구할 지구가 남아 있지 않을 것이다. 우리가 푸른 내일을 위한 마지막 희망이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b8d439b9dbf3": {
+  "en": "Alpha and Omega",
+  "kind": "string",
+  "ko": "알파와 오메가",
+  "source": "Literature/Literatures.tsx"
+ },
+ "93623380efc6": {
+  "en": "Then we saw a new Heaven and a new Earth, for our first Heaven and Earth had gone away, and our sea was no more. And we saw a new holy city, new Aeria, coming down out of this new Heaven, prepared as a bride adorned for her husband. And we heard a loud voice saying, \"Behold, the new dwelling place of the Gods. We will dwell with them, and they will be our people, and we will be with them as their Gods. We will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.\"",
+  "kind": "string",
+  "ko": "그때 우리는 새 하늘과 새 땅을 보았다. 우리의 첫 하늘과 첫 땅은 사라졌고 우리의 바다도 더는 없었다. 또 우리는 새 거룩한 도시, 새 Aeria가 신랑을 위해 단장한 신부처럼 준비되어 이 새 하늘에서 내려오는 것을 보았다. 그리고 우리는 큰 음성이 이렇게 말하는 것을 들었다. \"보라, 신들의 새 거처다. 우리가 그들과 함께 거하리니, 그들은 우리의 백성이 되고 우리는 그들의 신으로서 그들과 함께 있으리라. 우리가 그들의 눈에서 모든 눈물을 닦아 주리니, 다시는 죽음이 없고 애통하는 것이나 우는 것이나 아픈 것이 다시 있지 아니하리니, 이전 것들이 다 지나갔음이라.\"",
+  "source": "Literature/Literatures.tsx"
+ },
+ "adaa833e7708": {
+  "en": "And once we were seated on the throne we said \"Behold, I am making all things new.\" Also we said, \"Write this down, for these words are trustworthy and true.\" And we said to you, \"It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment. The one who conquers will have this heritage, and we will be his God and he will be our son. But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, for it is the second true death.\"",
+  "kind": "string",
+  "ko": "그리고 우리가 보좌에 앉았을 때 우리는 말했다. \"보라, 내가 만물을 새롭게 하노라.\" 또 우리는 말했다. \"기록하라. 이 말은 신실하고 참되다.\" 그리고 우리는 너희에게 말했다. \"이루었다! 나는 알파와 오메가요, 처음과 마지막이라. 목마른 자에게 내가 생명수 샘물을 값없이 주리라. 이기는 자는 이것들을 유업으로 얻으리니, 우리는 그의 신이 되고 그는 우리의 아들이 되리라. 그러나 두려워하는 자들과 믿지 않는 자들과 가증한 자들과 살인자들과 음행하는 자들과 점술가들과 우상 숭배자들과 모든 거짓말하는 자들은 그 모든 분깃이 불과 유황으로 타는 못에 있으리니, 이것이 둘째, 참된 죽음이라.\"",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e3b7cbbb98ea": {
+  "en": "Are We Living in a Computer Simulation?",
+  "kind": "string",
+  "ko": "우리는 컴퓨터 시뮬레이션 속에 살고 있을까?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b3a2bd0703d6": {
+  "en": "The idea that we are living in a virtual world is not new. It's a trope that has been explored constantly in literature and pop culture. However, it is also a legitimate scientific hypothesis that many notable physicists and philosophers have debated for years.",
+  "kind": "string",
+  "ko": "우리가 가상 세계에 살고 있다는 생각은 새롭지 않다. 문학과 대중문화에서 끊임없이 탐구되어 온 단골 소재다. 하지만 이것은 수많은 저명한 물리학자와 철학자가 수년 동안 논쟁해 온 정당한 과학적 가설이기도 하다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "388055db39ca": {
+  "en": "Proponents for this simulated reality theory often point to how advanced our technology has become, as well as the incredibly fast pace at which it has advanced over the past decades. The amount of computing power available to us has increased over 100-fold since 2060 due to the development of nanoprocessors and quantum computers. Artificial Intelligence has advanced to the point where our entire lives are controlled by robots and machines that handle our day-to-day activities such as autonomous transportation and scheduling. If we consider the pace at which this technology has advanced and assume that these developments continue, it's reasonable to assume that at some point in the future our technology would be advanced enough that we could create simulations that are indistinguishable from reality. However, if continued technological advancement is a reasonable outcome, then it is very likely that such a scenario has already happened.",
+  "kind": "string",
+  "ko": "이 시뮬레이션 현실 이론을 지지하는 이들은 흔히 우리 기술이 얼마나 발전했는지, 그리고 지난 수십 년 동안 얼마나 놀라운 속도로 발전했는지를 근거로 든다. 나노프로세서와 양자 컴퓨터의 개발로 우리가 쓸 수 있는 컴퓨팅 능력은 2060년 이후 100배 넘게 늘었다. 인공지능은 자율 교통이나 일정 관리처럼 일상 활동을 처리하는 로봇과 기계가 우리 삶 전체를 통제하는 수준까지 발전했다. 이 기술이 발전해 온 속도를 고려하고 이런 발전이 계속된다고 가정하면, 미래의 어느 시점에는 우리 기술이 현실과 구별할 수 없는 시뮬레이션을 만들 수 있을 만큼 발전할 것이라고 가정하는 것이 합리적이다. 그런데 지속적인 기술 발전이 합리적인 결과라면, 그런 시나리오가 이미 일어났을 가능성이 매우 높다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "44f15ff97948": {
+  "en": "Statistically speaking, somewhere out there in the infinite universe there is an advanced, intelligent species that already has such technology. Who's to say that they haven't already created such a virtual reality: our own?",
+  "kind": "string",
+  "ko": "통계적으로 말해 무한한 우주 어딘가에는 이미 그런 기술을 가진 발달한 지적 종족이 있다. 그들이 이미 그런 가상 현실, 곧 우리 현실을 만들지 않았다고 누가 말할 수 있겠는가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6765652e26ff": {
+  "en": "Beyond Man",
+  "kind": "string",
+  "ko": "인간을 넘어서",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6a52e7a5f742": {
+  "en": "Humanity entered a \"transhuman\" era a long time ago. And despite the protests and criticisms of many who cried out against human augmentation at the time, the transhuman movement continued and prospered. Proponents of the movement ignored the critics, arguing that it was in our inherent nature to better ourselves. To improve. To be more than we were. They claimed that not doing so would be to go against every living organism's biological purpose: evolution and survival of the fittest.",
+  "kind": "string",
+  "ko": "인류는 오래전에 \"트랜스휴먼\" 시대에 들어섰다. 당시 인간 증강에 반대하며 외친 많은 이들의 항의와 비판에도 불구하고 트랜스휴먼 운동은 계속되고 번성했다. 이 운동의 지지자들은 비판을 무시하며, 스스로를 더 낫게 만드는 것이 우리의 타고난 본성이라고 주장했다. 개선하는 것. 과거의 우리보다 더 나은 존재가 되는 것. 그렇게 하지 않는 것은 모든 생명체의 생물학적 목적, 곧 진화와 적자생존에 반하는 일이라고 그들은 주장했다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e4db898a8095": {
+  "en": "And here we are today, with technology that is advanced enough to augment humans to a state that can only be described as posthuman. But what do we have to show for it when this augmentation technology is only available to the so-called \"elite\"? Are we really better off than before when only 5% of the world's population has access to this technology? When the powerful corporations and organizations of the world keep it all to themselves, have we really evolved?",
+  "kind": "string",
+  "ko": "그리고 오늘날 우리는 포스트휴먼이라고밖에 설명할 수 없는 상태로 인간을 증강할 수 있을 만큼 발전한 기술을 가지고 여기에 있다. 하지만 이 증강 기술을 이른바 \"엘리트\"만 쓸 수 있다면 우리가 얻은 것은 무엇인가? 세계 인구의 5%만 이 기술에 접근할 수 있는데 우리는 정말 이전보다 나아졌는가? 세상의 강력한 기업과 조직이 이를 독차지하고 있는데 우리는 정말 진화했는가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ad54c90e714e": {
+  "en": "Augmentation technology has only further increased the divide between the rich and the poor, between the powerful and the oppressed. We have not become \"more than human\". We have not evolved from nature's original design. We are still the greedy, corrupted, and evil men that we always were.",
+  "kind": "string",
+  "ko": "증강 기술은 부자와 가난한 자, 강한 자와 억압받는 자 사이의 격차를 더 벌려 놓았을 뿐이다. 우리는 \"인간 이상\"이 되지 못했다. 우리는 자연의 원래 설계에서 진화하지 못했다. 우리는 여전히 늘 그래 왔던 탐욕스럽고, 타락하고, 사악한 인간이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "862f2e702315": {
+  "en": "Brighter than the Sun",
+  "kind": "string",
+  "ko": "태양보다 밝은",
+  "source": "Literature/Literatures.tsx"
+ },
+ "98d1a9b1f9f2": {
+  "en": "When people think about the corporations that dominate the East, they typically think of",
+  "kind": "string",
+  "ko": "동양을 지배하는 기업을 떠올릴 때 사람들은 보통",
+  "source": "Literature/Literatures.tsx"
+ },
+ "5e2c5454b1c8": {
+  "en": ", which holds a complete monopoly for manufacturing and commerce in Asia, or",
+  "kind": "string",
+  "ko": "(아시아의 제조업과 상거래를 완전히 독점한 회사), 또는",
+  "source": "Literature/Literatures.tsx"
+ },
+ "d7781acf199b": {
+  "en": ", the world's largest drug company, or ",
+  "kind": "string",
+  "ko": "(세계 최대의 제약 회사), 또는 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0b7176c44171": {
+  "en": ", the global leader in intelligent and autonomous robots. But there's one company that has seen a rapid rise in the last year and is poised to dominate not only the East, but the entire world: TaiYang Digital.",
+  "kind": "string",
+  "ko": "(지능형 자율 로봇 분야의 세계적 선두 기업)을 떠올린다. 하지만 지난 1년 사이 급부상해 동양뿐 아니라 전 세계를 지배할 태세를 갖춘 회사가 하나 있다. 바로 TaiYang Digital이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a0ce2b636b92": {
+  "en": "TaiYang Digital is a Chinese internet-technology corporation that provides services such as online advertising, search engines, gaming, media, entertainment, and cloud computing/storage. Its name TaiYang comes from the Chinese word for \"sun\". In Chinese culture, the sun is a 'yang' symbol associated with life, heat, masculinity, and heaven.",
+  "kind": "string",
+  "ko": "TaiYang Digital은 온라인 광고, 검색 엔진, 게임, 미디어, 엔터테인먼트, 클라우드 컴퓨팅/스토리지 같은 서비스를 제공하는 중국의 인터넷 기술 기업이다. TaiYang이라는 이름은 \"태양\"을 뜻하는 중국어에서 왔다. 중국 문화에서 태양은 생명, 열, 남성성, 하늘과 연관된 '양'의 상징이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "32a046a57c64": {
+  "en": "The company was founded less than 5 years ago and is already the third highest valued company in all of Asia. In 2076 it generated a total revenue of over 10 trillion yuan. Its services are used daily by over a billion people worldwide.",
+  "kind": "string",
+  "ko": "이 회사는 설립된 지 5년이 채 안 되었는데도 이미 아시아 전체에서 기업 가치 3위에 올랐다. 2076년에는 총 매출 10조 위안 이상을 올렸다. 이 회사의 서비스는 전 세계 10억 명 이상이 매일 사용한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "92450edf76b2": {
+  "en": "TaiYang Digital's meteoric rise is extremely surprising in modern society. This sort of growth is something you'd commonly see in the first half of the century, especially for tech companies. However in the last two decades the number of corporations has significantly declined as the largest entities quickly took over the economy. Corporations such as ",
+  "kind": "string",
+  "ko": "TaiYang Digital의 혜성 같은 부상은 현대 사회에서 극히 놀랍다. 이런 성장은 세기 전반, 특히 기술 기업에서 흔히 볼 수 있던 것이다. 하지만 지난 20년 동안 가장 큰 기업들이 경제를 빠르게 장악하면서 기업의 수는 크게 줄었다. ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e6d4d6fc63a2": {
+  "en": " have established such strong monopolies in their market sectors that they have effectively killed off all of the smaller and new corporations that have tried to start up over the years. This is what makes the rise of TaiYang Digital so impressive. And if TaiYang continues down this path, then they have a bright future ahead of them.",
+  "kind": "string",
+  "ko": " 같은 기업은 자신들의 시장 분야에서 너무나 강력한 독점을 구축해, 수년간 창업을 시도한 더 작은 신생 기업을 모두 사실상 말살했다. 이것이 TaiYang Digital의 부상을 그토록 인상적으로 만드는 이유다. 그리고 TaiYang이 이 길을 계속 걷는다면 밝은 미래가 기다리고 있을 것이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a67641bbd146": {
+  "en": "Democracy is Dead: The Fall of an Empire",
+  "kind": "string",
+  "ko": "민주주의는 죽었다: 제국의 몰락",
+  "source": "Literature/Literatures.tsx"
+ },
+ "612407ff80a2": {
+  "en": "They rose from the shadows in the street.",
+  "kind": "string",
+  "ko": "그들은 거리의 그림자에서 일어섰다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7b7195ed880a": {
+  "en": "From the places where the oppressed meet.",
+  "kind": "string",
+  "ko": "억눌린 자들이 모이는 곳에서.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "912a58650e88": {
+  "en": "Their cries echoed loudly through the air.",
+  "kind": "string",
+  "ko": "그들의 외침이 공기를 크게 울렸다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b4ac5a02ea72": {
+  "en": "As they once did in Tiananmen Square.",
+  "kind": "string",
+  "ko": "한때 톈안먼 광장에서 그랬듯이.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "100c2a9b6c2e": {
+  "en": "Loudness in the silence, Darkness in the light.",
+  "kind": "string",
+  "ko": "침묵 속의 소란, 빛 속의 어둠.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a995a28eb3bd": {
+  "en": "They came forth with power and might.",
+  "kind": "string",
+  "ko": "그들은 힘과 위세를 앞세워 나아갔다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3ceb44b416e6": {
+  "en": "Once the beacon of democracy, America was first.",
+  "kind": "string",
+  "ko": "한때 민주주의의 등대였던 미국이 가장 먼저였다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "846a51e34149": {
+  "en": "Its pillars of society destroyed and dispersed.",
+  "kind": "string",
+  "ko": "사회의 기둥은 무너지고 흩어졌다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "260d785f8579": {
+  "en": "Soon the cries rose everywhere, with revolt and riot.",
+  "kind": "string",
+  "ko": "곧 어디서나 반란과 폭동의 외침이 일었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "83745d604e3e": {
+  "en": "Until one day, finally, all was quiet.",
+  "kind": "string",
+  "ko": "마침내 어느 날 모든 것이 고요해질 때까지.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "9aa7b493aee2": {
+  "en": "From the ashes rose a new order, corporatocracy was its name.",
+  "kind": "string",
+  "ko": "잿더미에서 새로운 질서가 일어났으니 그 이름은 기업 지배.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "771878fec811": {
+  "en": "Rome, Mongol, Byzantine, all of history is just the same.",
+  "kind": "string",
+  "ko": "로마도, 몽골도, 비잔틴도, 역사는 모두 다를 바 없다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "c41cabf34f66": {
+  "en": "For man will never change in a fundamental way.",
+  "kind": "string",
+  "ko": "인간은 근본적으로 결코 변하지 않기에.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a60ee2bb7bd4": {
+  "en": "And now democracy is dead, in the USA.",
+  "kind": "string",
+  "ko": "그리고 이제 미국에서 민주주의는 죽었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "88bf14444d9e": {
+  "en": "Figures Show Rising Crime Rates in {0}",
+  "kind": "template",
+  "ko": "{0}의 범죄율 상승을 보여 주는 수치",
+  "source": "Literature/Literatures.tsx"
+ },
+ "62dd12c3cc9e": {
+  "en": "A recent study by analytics company Wilson Inc. shows a significant rise in criminal activity in",
+  "kind": "string",
+  "ko": "분석 기업 Wilson Inc.의 최근 연구에 따르면",
+  "source": "Literature/Literatures.tsx"
+ },
+ "f909c423eaf3": {
+  "en": ". Perhaps the most alarming part of the statistic is that most of the rise is in violent crime such as homicide and assault. According to the study, the city saw a total of 21,406 reported homicides in 2076, which is over a 20% increase compared to 2075.",
+  "kind": "string",
+  "ko": "에서 범죄 활동이 크게 증가했다. 가장 우려스러운 통계는 증가분 대부분이 살인과 폭행 같은 강력 범죄라는 점이다. 연구에 따르면 이 도시에서는 2076년에 신고된 살인이 총 21,406건으로, 2075년보다 20% 넘게 늘었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b36357735be9": {
+  "en": "CIA director David Glarow says it's too early to know whether these figures indicate the beginning of a sustained increase in crime rates, or whether the year was just an unfortunate outlier. He states that many intelligence and law enforcement agents have noticed an increase in organized crime activities, and believes that these figures may be the result of an uprising from criminal organizations such as",
+  "kind": "string",
+  "ko": "CIA 국장 David Glarow는 이 수치가 범죄율의 지속적 증가의 시작을 뜻하는지, 아니면 그저 불운한 이상치였는지 알기에는 아직 이르다고 말한다. 그는 많은 정보 및 법 집행 요원이 조직 범죄 활동의 증가를 감지했다고 밝히며, 이 수치가 다음과 같은 범죄 조직의 봉기의 결과일 수 있다고 믿는다:",
+  "source": "Literature/Literatures.tsx"
+ },
+ "44977fe0a4ab": {
+  "en": "Man and the Machine",
+  "kind": "string",
+  "ko": "인간과 기계",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0b96deec9246": {
+  "en": "In 2005 Ray Kurzweil popularized his theory of the Singularity. He predicted that the rate of technological advancement would continue to accelerate faster and faster until one day machines would be become infinitely more intelligent than humans. This point, called the Singularity, would result in a drastic transformation of the world as we know it. He predicted that the Singularity would arrive by 2045. And yet here we are, more than three decades later, where most would agree that we have not yet reached a point where computers and machines are vastly more intelligent than we are. So what gives?",
+  "kind": "string",
+  "ko": "2005년 Ray Kurzweil은 자신의 특이점 이론을 대중화했다. 그는 기술 발전의 속도가 점점 더 빨라져, 어느 날 기계가 인간보다 무한히 더 지능적이 될 것이라고 예측했다. 특이점이라 불리는 이 시점은 우리가 아는 세계를 급격히 변모시킬 것이었다. 그는 특이점이 2045년까지 올 것이라고 예측했다. 그런데 30년도 넘게 지난 지금, 대부분은 컴퓨터와 기계가 우리보다 훨씬 더 지능적인 시점에 아직 도달하지 못했다는 데 동의할 것이다. 그렇다면 어찌 된 일일까?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ff43c9689b17": {
+  "en": "The answer is that we have reached the Singularity, just not in the way we expected. The artificial superintelligence that was predicted by Kurzweil and others exists in the world today - in the form of Augmentations. Yes, those Augmentations that the rich and powerful keep to themselves enable humans to become superintelligent beings. The Singularity did not lead to a world where our machines are infinitely more intelligent than us, it led to a world where man and machine can merge to become something greater. Most of the world just doesn't know it yet.",
+  "kind": "string",
+  "ko": "답은 우리가 특이점에 도달했다는 것이다. 다만 우리가 기대한 방식이 아니었을 뿐이다. Kurzweil과 다른 이들이 예측한 인공 초지능은 오늘날 증강의 형태로 세상에 존재한다. 그렇다. 부유하고 권력 있는 자들이 독점하는 그 증강이 인간을 초지능적 존재로 만든다. 특이점은 기계가 우리보다 무한히 더 지능적인 세계로 이어지지 않았다. 인간과 기계가 합쳐져 더 위대한 무언가가 될 수 있는 세계로 이어졌다. 세상 대부분이 아직 모를 뿐이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3deb0d7d2d97": {
+  "en": "Secret Societies",
+  "kind": "string",
+  "ko": "비밀 결사",
+  "source": "Literature/Literatures.tsx"
+ },
+ "720d4e143efa": {
+  "en": "The idea of secret societies has long intrigued the general public by inspiring curiosity, fascination, and distrust. People have long wondered about who these secret society members are and what they do, with the most radical of conspiracy theorists claiming that they control everything in the entire world. And while the world may never know for sure, it is likely that many secret societies do actually exist, even today.",
+  "kind": "string",
+  "ko": "비밀 결사라는 발상은 오래전부터 대중의 호기심과 매혹과 불신을 자극하며 관심을 끌어 왔다. 사람들은 이 비밀 결사의 구성원이 누구이며 무엇을 하는지 오랫동안 궁금해했고, 가장 급진적인 음모론자들은 그들이 전 세계 모든 것을 통제한다고 주장한다. 세상이 확실히 알게 되는 일은 없을지 모르지만, 많은 비밀 결사가 오늘날에도 실제로 존재할 가능성이 높다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0e6d9a505824": {
+  "en": "However, the secret societies of the modern world are nothing like those that (supposedly) existed decades and centuries ago. The Freemasons, Knights Templar, and ",
+  "kind": "string",
+  "ko": "그러나 현대 세계의 비밀 결사는 수십 년, 수 세기 전에 (아마도) 존재했던 것들과 전혀 다르다. 프리메이슨, 템플 기사단, ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "955ef9e834fe": {
+  "en": ", while they may have been around at the turn of the 21st century, almost assuredly do not exist today. The dominance of the Web in our everyday lives and the fact that so much of the world is now digital has given rise to a new breed of secret societies: Internet-based ones.",
+  "kind": "string",
+  "ko": "는 21세기로 넘어올 무렵에는 존재했을지 몰라도 오늘날에는 거의 확실히 존재하지 않는다. 일상에서 웹이 차지하는 지배력과 이제 세상 대부분이 디지털이라는 사실이 새로운 유형의 비밀 결사를 낳았다. 바로 인터넷 기반 결사다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "88342e59b5bb": {
+  "en": "Commonly called \"hacker groups\", Internet-based secret societies have become well-known in today's world. Some of these, such as ",
+  "kind": "string",
+  "ko": "흔히 \"해커 그룹\"이라 불리는 인터넷 기반 비밀 결사는 오늘날 세상에 널리 알려졌다. 그중 일부, 예를 들어 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "bfbec3424523": {
+  "en": ", are black hat groups that claim they are trying to help the oppressed by attacking the elite and powerful. Others, such as ",
+  "kind": "string",
+  "ko": "는 블랙햇 그룹으로, 엘리트와 권력자를 공격해 억압받는 자를 돕고 있다고 주장한다. 또 다른 일부, 예를 들어 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ab746c956827": {
+  "en": ", are hacktivist groups that try to push political and social agendas. Perhaps the most intriguing hacker group is the mysterious",
+  "kind": "string",
+  "ko": "은 정치적, 사회적 의제를 밀어붙이려는 핵티비스트 그룹이다. 아마 가장 흥미로운 해커 그룹은 수수께끼의",
+  "source": "Literature/Literatures.tsx"
+ },
+ "66e42a4796bf": {
+  "en": ", whose purpose still remains unknown.",
+  "kind": "string",
+  "ko": "이다. 그 목적은 아직도 알려져 있지 않다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a883b3f028a8": {
+  "en": "Space: The Failed Frontier",
+  "kind": "string",
+  "ko": "우주: 실패한 개척지",
+  "source": "Literature/Literatures.tsx"
+ },
+ "bf2f2d22fbd0": {
+  "en": "Humans have long dreamed about spaceflight. With enduring interest, we were driven to explore the unknown and discover new worlds. We dreamed about conquering the stars. And in our quest, we pushed the boundaries of our scientific limits, and then pushed further. Space exploration lead to the development of many important technologies and new industries.",
+  "kind": "string",
+  "ko": "인류는 오래전부터 우주 비행을 꿈꿔 왔다. 식지 않는 관심으로 우리는 미지를 탐험하고 새로운 세계를 발견하도록 이끌렸다. 우리는 별을 정복하는 꿈을 꿨다. 그리고 그 탐구 속에서 과학의 한계를 밀어붙였고, 다시 더 밀어붙였다. 우주 탐사는 많은 중요한 기술과 새로운 산업의 발전으로 이어졌다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "84140f0f982b": {
+  "en": "But sometime in the middle of the 21st century, all of that changed. Humanity lost its ambitions and aspirations of exploring the cosmos. The once-large funding for agencies like NASA and the European Space Agency gradually whittled away until their eventual disbanding in the 2060's. Not even militaries are fielding flights into space nowadays. The only remnants of the once great mission for cosmic conquest are the countless satellites in near-earth orbit, used for communications, espionage, and other corporate interests.",
+  "kind": "string",
+  "ko": "그러나 21세기 중반 어느 시점에 이 모든 것이 바뀌었다. 인류는 우주를 탐험하겠다는 야망과 열망을 잃었다. NASA와 유럽우주국 같은 기관에 한때 거액이던 자금은 서서히 줄어들다가 2060년대에 결국 해체되었다. 오늘날에는 군대조차 우주로 비행하지 않는다. 우주 정복이라는 한때 위대했던 사명의 유일한 잔재는 통신, 첩보, 그 밖의 기업 이익에 쓰이는 지구 근처 궤도의 무수한 위성뿐이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "da62580adf4c": {
+  "en": "And as we continue to look at the state of space technology, it becomes more and more apparent that we will never return to that golden age of space exploration, that age where everyone dreamed of going beyond earth for the sake of discovery.",
+  "kind": "string",
+  "ko": "그리고 우주 기술의 현재 상태를 계속 살펴볼수록, 우리가 우주 탐사의 그 황금기, 곧 모두가 발견을 위해 지구 너머로 나아가기를 꿈꾸던 시대로 결코 돌아가지 못하리라는 것이 점점 더 분명해진다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "350695ab00da": {
+  "en": "Coded Intelligence: Myth or Reality?",
+  "kind": "string",
+  "ko": "코드화된 지능: 신화인가 현실인가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ddb8a6bca9c2": {
+  "en": "Tremendous progress has been made in the field of Artificial Intelligence over the past few decades. Our autonomous vehicles and transportation systems. The electronic personal assistants that control our everyday lives. Medical, service, and manufacturing robots. All of these are examples of how far AI has come and how much it has improved our daily lives. However, the question still remains of whether AI will ever be advanced enough to re-create human intelligence.",
+  "kind": "string",
+  "ko": "지난 수십 년 동안 인공지능 분야에서는 엄청난 진전이 이루어졌다. 우리의 자율 주행 차량과 교통 시스템. 우리의 일상을 통제하는 전자 개인 비서. 의료, 서비스, 제조 로봇. 이 모두가 AI가 얼마나 멀리 왔고 우리의 일상을 얼마나 개선했는지 보여 주는 예다. 하지만 AI가 과연 인간의 지능을 재현할 만큼 발전할 수 있느냐는 의문은 여전히 남아 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3ecd21ccefda": {
+  "en": "We've certainly come close to artificial intelligence that is similar to humans. For example,",
+  "kind": "string",
+  "ko": "우리는 분명 인간과 비슷한 인공지능에 가까이 다가갔다. 예를 들어",
+  "source": "Literature/Literatures.tsx"
+ },
+ "f77178d77168": {
+  "en": "'s CompanionBot, a robot meant to act as a comforting friend for lonely and grieving people, is eerily human-like in its appearance, speech, mannerisms, and even movement. However its artificial intelligence isn't the same as that of humans. Not yet. It doesn't have sentience or self-awareness or consciousness.",
+  "kind": "string",
+  "ko": "의 CompanionBot은 외롭거나 슬픔에 잠긴 사람들에게 위로가 되는 친구 역할을 하도록 만든 로봇으로, 외모, 말씨, 몸짓, 심지어 움직임까지 섬뜩할 만큼 인간 같다. 하지만 그 인공지능은 인간의 것과 같지 않다. 아직은. 감각이나 자기 인식, 의식이 없다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "67b8a038f83e": {
+  "en": "Many neuroscientists believe that we won't ever reach the point of creating artificial human intelligence. \"At the end of the day, AI comes down to 1's and 0's, while the human brain does not. We'll never see AI that is identical to that of humans.\"",
+  "kind": "string",
+  "ko": "많은 신경과학자는 인공 인간 지능을 만드는 단계에는 결코 도달하지 못할 것이라고 믿는다. \"결국 AI는 1과 0으로 귀결되지만 인간의 뇌는 그렇지 않다. 인간의 것과 똑같은 AI는 결코 보지 못할 것이다.\"",
+  "source": "Literature/Literatures.tsx"
+ },
+ "8982f56c2f41": {
+  "en": "Synthetic Muscles",
+  "kind": "string",
+  "ko": "합성 근육",
+  "source": "Literature/Literatures.tsx"
+ },
+ "01e4e932343d": {
+  "en": "Initial versions of synthetic muscles weren't made of anything organic but were actually crude devices made to mimic human muscle function. Some of the early iterations were actually made of common materials such as fishing lines and sewing threads due to their high strength for a cheap cost.",
+  "kind": "string",
+  "ko": "합성 근육의 초기 버전은 유기물로 만든 것이 아니라, 인간 근육의 기능을 흉내 내도록 만든 조잡한 장치였다. 초기 모델 중 일부는 값이 싸면서도 강도가 높다는 이유로 낚싯줄이나 재봉실 같은 흔한 재료로 만들어지기도 했다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0f5c5b637090": {
+  "en": "As technology progressed, however, advances in biomedical engineering paved the way for a new method of creating synthetic muscles. Instead of creating something that closely imitated the functionality of human muscle, scientists discovered a way of forcing the human body itself to augment its own muscle tissue using both synthetic and organic materials. This is typically done using gene therapy or chemical injections.",
+  "kind": "string",
+  "ko": "하지만 기술이 발전하면서 생체의공학의 진보가 합성 근육을 만드는 새로운 방법의 길을 열었다. 인간 근육의 기능을 그대로 모방하는 것을 만드는 대신, 과학자들은 합성 물질과 유기 물질을 모두 이용해 인체 스스로 근육 조직을 강화하도록 만드는 방법을 발견했다. 이는 보통 유전자 치료나 화학 주사로 이루어진다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b38a4c49cb69": {
+  "en": "Tensions rise in global tech race",
+  "kind": "string",
+  "ko": "세계 기술 경쟁에서 긴장이 고조되다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3a8bfc6e123d": {
+  "en": "Have we entered a new Cold War? Is WWIII just beyond the horizon?",
+  "kind": "string",
+  "ko": "우리는 새로운 냉전에 들어섰는가? 3차 세계대전이 지평선 너머에 와 있는가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1902d67c214b": {
+  "en": "After rumors came out that ",
+  "kind": "string",
+  "ko": "소문이 돌았다: ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "5f852313368a": {
+  "en": " had begun developing advanced robotic supersoldiers, geopolitical tensions quickly flared between the USA, Russia, and several Asian superpowers. In a rare show of cooperation between corporations, ",
+  "kind": "string",
+  "ko": "가 첨단 로봇 초병사를 개발하기 시작했다고. 그러자 미국, 러시아, 여러 아시아 강대국 사이에서 지정학적 긴장이 급격히 고조되었다. 기업들 사이에서는 드문 협력으로 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "423204f35f99": {
+  "en": " have reportedly launched hundreds of new surveillance and espionage satellites. Defense contractors such as",
+  "kind": "string",
+  "ko": "는 수백 개의 새로운 감시 및 첩보 위성을 발사한 것으로 알려졌다. 방위 계약업체 중",
+  "source": "Literature/Literatures.tsx"
+ },
+ "472a418ebb4a": {
+  "en": " have been working with the CIA and NSA to prepare for conflict. Meanwhile, the rest of the world sits in earnest hoping that it never reaches full-scale war. With today's technology and firepower, a World War would assuredly mean the end of human civilization.",
+  "kind": "string",
+  "ko": "는 CIA, NSA와 협력해 분쟁에 대비하고 있다. 한편 나머지 세계는 전면전이 결코 일어나지 않기를 간절히 바라며 지켜보고 있다. 오늘날의 기술과 화력으로 세계대전은 인류 문명의 종말을 뜻할 것이 분명하다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "01948a017695": {
+  "en": "The Cost of Immortality",
+  "kind": "string",
+  "ko": "불멸의 대가",
+  "source": "Literature/Literatures.tsx"
+ },
+ "d692b490cf56": {
+  "en": "Evolution and advances in medical and augmentation technology has lead to drastic improvements in human mortality rates. Recent figures show that the life expectancy for humans that live in a first-world country is about 130 years of age, almost double of what it was at the turn of the century. However, this increase in average lifespan has had some significant effects on society and culture.",
+  "kind": "string",
+  "ko": "진화와 의료 및 증강 기술의 발전은 인간의 사망률을 극적으로 개선했다. 최근 수치에 따르면 선진국에 사는 인간의 기대 수명은 약 130세로, 세기 초의 거의 두 배다. 하지만 이렇게 평균 수명이 늘어나자 사회와 문화에 몇 가지 중대한 영향이 생겼다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "25ff951f9fde": {
+  "en": "Due to longer lifespans and a better quality of life, many adults are holding off on having kids until much later. As a result, the percentage of youth in first-world countries has been decreasing, while the number of senior citizens is significantly increasing.",
+  "kind": "string",
+  "ko": "더 긴 수명과 더 나은 삶의 질 덕분에 많은 성인이 훨씬 늦게까지 아이를 갖는 것을 미루고 있다. 그 결과 선진국에서 청년의 비율은 줄어들고 노년층의 수는 크게 늘어나고 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "655a460387eb": {
+  "en": "Perhaps the most alarming result of all of this is the rapidly shrinking workforce. Despite the increase in life expectancy, the typical retirement age for workers in America has remained about the same, meaning a larger and larger percentage of people in America are retirees. Furthermore, many young adults are holding off on joining the workforce because they feel that they have plenty of time left in their lives for employment, and want to \"enjoy life while they're young.\" For most industries, this shrinking workforce is not a major issue as most things are handled by robots anyways. However, there are still several key industries such as engineering and education that have not been automated, and these remain in danger to this cultural phenomenon.",
+  "kind": "string",
+  "ko": "아마 이 모든 것의 가장 우려스러운 결과는 급격히 줄어드는 노동력일 것이다. 기대 수명이 늘었는데도 미국 노동자의 일반적인 은퇴 연령은 거의 그대로여서, 미국에서 은퇴자의 비율이 점점 더 커지고 있다. 게다가 많은 청년이 삶에 일할 시간이 충분히 남아 있다고 느끼고 \"젊을 때 인생을 즐기고\" 싶어서 노동 시장 진입을 미루고 있다. 대부분의 산업에서는 어차피 대부분을 로봇이 처리하므로 이 노동력 감소는 큰 문제가 아니다. 하지만 공학이나 교육처럼 자동화되지 않은 핵심 산업이 여전히 몇 개 있으며, 이들은 이 문화 현상 때문에 위험에 처해 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "92dd07e83e33": {
+  "en": "The Hidden World",
+  "kind": "string",
+  "ko": "숨겨진 세계",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6da986853ae6": {
+  "en": "WAKE UP SHEEPLE",
+  "kind": "string",
+  "ko": "일어나라, 양들아",
+  "source": "Literature/Literatures.tsx"
+ },
+ "bb4a2dbd0149": {
+  "en": "THE GOVERNMENT DOES NOT EXIST. CORPORATIONS DO NOT RUN SOCIETY",
+  "kind": "string",
+  "ko": "정부는 존재하지 않는다. 기업은 사회를 운영하지 않는다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6aa74db11ada": {
+  "en": " ARE THE SECRET RULERS OF THE WORLD!",
+  "kind": "string",
+  "ko": "는 세상의 비밀 지배자다!",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cdf2c048daf3": {
+  "en": "Yes, the ",
+  "kind": "string",
+  "ko": "그렇다, 전설 속의 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "208a7c05d84a": {
+  "en": " of legends. The ancient secret society that controls the entire world from the shadows with their invisible hand. With their personal wealth and skills they have penetrated every major government, financial agency, and corporation in the last three hundred years.",
+  "kind": "string",
+  "ko": "다. 보이지 않는 손으로 그림자 속에서 전 세계를 지배하는 고대의 비밀 결사. 그들은 개인의 부와 기술로 지난 300년 동안 모든 주요 정부, 금융 기관, 기업에 침투했다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "33e2bb7256b8": {
+  "en": "OPEN YOUR EYES",
+  "kind": "string",
+  "ko": "눈을 떠라",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e76c34a3b570": {
+  "en": "It was the ",
+  "kind": "string",
+  "ko": "세상에서 민주주의를 끝낸 것은 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "c22606423f1d": {
+  "en": " that brought an end to democracy in the world. They are the driving force behind everything that happens.",
+  "kind": "string",
+  "ko": "다. 그들이 일어나는 모든 일의 원동력이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "379de8b55d95": {
+  "en": "THEY ARE ALL AROUND YOU",
+  "kind": "string",
+  "ko": "그들은 당신 주위 어디에나 있다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "4a11bec149b6": {
+  "en": "After destabilizing the world's governments, they are now entering the final stage of their master plan. They will secretly initiate global crises. Terrorism. Pandemics. World War. And out of the chaos that ensues they will build their New World Order.",
+  "kind": "string",
+  "ko": "세계의 정부를 불안정하게 만든 뒤, 그들은 이제 마스터 플랜의 마지막 단계에 접어들고 있다. 그들은 은밀히 세계적 위기를 일으킬 것이다. 테러. 팬데믹. 세계대전. 그리고 그 뒤에 이어지는 혼돈 속에서 그들의 새로운 세계 질서를 세울 것이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1dc22c7a4473": {
+  "en": "The New God",
+  "kind": "string",
+  "ko": "새로운 신",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1807c0584071": {
+  "en": "Everyone has a moment in their life when they wonder about the bigger questions.",
+  "kind": "string",
+  "ko": "누구나 살면서 더 큰 질문을 궁금해하는 순간이 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "ccced0bc14dc": {
+  "en": "What's the point of all this? What is my purpose?",
+  "kind": "string",
+  "ko": "이 모든 것의 의미는 무엇인가? 나의 목적은 무엇인가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "60cbbc97fe70": {
+  "en": "Some people dare to think even bigger.",
+  "kind": "string",
+  "ko": "어떤 이들은 감히 더 크게 생각한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "f37fb867308b": {
+  "en": "What will the fate of the human race be?",
+  "kind": "string",
+  "ko": "인류의 운명은 어떻게 될 것인가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "336ee68c553a": {
+  "en": "We live in an era vastly different from that of 15 or even 20 years ago. We have gone beyond the limits of humanity. We have stripped ourselves of the tyranny of flesh.",
+  "kind": "string",
+  "ko": "우리는 15년, 아니 20년 전과는 크게 다른 시대에 산다. 우리는 인류의 한계를 넘어섰다. 우리는 육체의 폭정을 벗어던졌다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b6b6f9fc84ac": {
+  "en": "The Singularity is here. The merging of man and machine. This is where humanity evolves into something greater. This is our future.",
+  "kind": "string",
+  "ko": "특이점이 왔다. 인간과 기계의 융합. 인류가 더 위대한 무언가로 진화하는 곳. 이것이 우리의 미래다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "9d7c6458c9f1": {
+  "en": "Embrace it, and you will obey a new god. The God in the Machine.",
+  "kind": "string",
+  "ko": "그것을 받아들이면 새로운 신에게 복종하게 될 것이다. 기계 속의 신에게.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7f710314c9f6": {
+  "en": "The New Triads",
+  "kind": "string",
+  "ko": "새로운 삼합회",
+  "source": "Literature/Literatures.tsx"
+ },
+ "9ac715301d7d": {
+  "en": "The Triads were an ancient transnational crime syndicate based in China, Hong Kong, and other Asian territories. They were often considered one of the first and biggest criminal secret societies. While most of the branches of the Triads have been destroyed over the past few decades, the crime faction has spawned and inspired a number of other Asian crime organizations over the past few years. The most notable of these is the ",
+  "kind": "string",
+  "ko": "삼합회는 중국, 홍콩, 그 밖의 아시아 영토를 근거지로 한 고대의 초국가적 범죄 조직이었다. 이들은 최초이자 최대의 범죄 비밀 결사 중 하나로 흔히 여겨졌다. 지난 수십 년간 삼합회 지부 대부분이 소멸했지만, 이 범죄 집단은 지난 몇 년 사이 여러 다른 아시아 범죄 조직을 낳고 영감을 주었다. 그중 가장 두드러진 것은 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "f416566db89c": {
+  "en": "It is widely believed that the ",
+  "kind": "string",
+  "ko": "널리 알려진 바로는 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "d22655bbd8cf": {
+  "en": " are a rogue group that splintered off from the Triads sometime in the mid 21st century. The founders of the ",
+  "kind": "string",
+  "ko": "는 21세기 중반 무렵 삼합회에서 갈라져 나온 이탈 집단이다. 그 조직 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "8c029e67ec49": {
+  "en": ", all of whom were ex-Triad members, believed that the Triads were losing their purpose and direction. The ",
+  "kind": "string",
+  "ko": "의 창립자들은 모두 전직 삼합회 구성원이었으며, 삼합회가 목적과 방향을 잃어 가고 있다고 믿었다. 처음에 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0d52799cbef4": {
+  "en": " started off as a small group that mainly engaged in fraud and extortion. They were largely unknown until just a few years ago when they took over the illegal drug trade in all of the major Asian cities. They quickly became the most powerful crime syndicate in the continent.",
+  "kind": "string",
+  "ko": "는 주로 사기와 갈취를 일삼는 작은 집단으로 시작했다. 겨우 몇 년 전 모든 주요 아시아 도시의 불법 마약 거래를 장악하기 전까지는 대체로 알려지지 않았다. 이들은 곧 대륙에서 가장 강력한 범죄 조직이 되었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "510a79f770f5": {
+  "en": "Not much else is known about the ",
+  "kind": "string",
+  "ko": "그 밖에는 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "3bbfb50ec005": {
+  "en": ", or about the efforts the Asian governments and corporations are making to take down this large new crime organization. Many believe that the",
+  "kind": "string",
+  "ko": "에 대해서도, 아시아 정부와 기업이 이 거대한 신흥 범죄 조직을 무너뜨리기 위해 기울이는 노력에 대해서도 알려진 것이 많지 않다. 많은 이들은",
+  "source": "Literature/Literatures.tsx"
+ },
+ "0fcff19db831": {
+  "en": " have infiltrated the governments and powerful corporations in Asia, which has helped facilitate their recent rapid rise.",
+  "kind": "string",
+  "ko": "가 아시아의 정부와 강력한 기업에 침투했으며, 이것이 최근의 급속한 부상을 도왔다고 믿는다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "c87377695b3c": {
+  "en": "The Secret War",
+  "kind": "string",
+  "ko": "비밀 전쟁",
+  "source": "Literature/Literatures.tsx"
+ },
+ "cedc29be00ca": {
+  "en": "A Brief History of Transhumanism",
+  "kind": "string",
+  "ko": "트랜스휴머니즘의 짧은 역사",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6f317626b2a2": {
+  "en": "Human augmentation has come a long way since the first prosthetics and implants. Now any and all parts of the human body are able to be improved by technology: strength, speed, perception, intelligence. A large variety of powerful augmentations have been developed, but for most they may as well not exist. How did things end up like this?",
+  "kind": "string",
+  "ko": "인간 증강은 최초의 의수족과 임플란트 이후 먼 길을 왔다. 이제 인체의 모든 부분을 기술로 개선할 수 있다. 근력, 속도, 지각, 지능. 강력한 증강이 매우 다양하게 개발되었지만 대부분의 사람에게는 있으나 마나 하다. 어쩌다 이렇게 된 것일까?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "06cdba187995": {
+  "en": "Part of the answer is, unfortunately, that the exact technology that has allowed us to come so far in human augmentation is also responsible for its great expense and exclusivity.",
+  "kind": "string",
+  "ko": "불행히도 답의 일부는, 인간 증강에서 우리가 이렇게 멀리 올 수 있게 해 준 바로 그 기술이 막대한 비용과 배타성의 원인이기도 하다는 것이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a8c705d99acb": {
+  "en": "The early days of human augmentation were plagued with issues. Immunosuppressants were needed to keep people's bodies from rejecting the foreign bodies being implanted, with the body constantly trying to \"restore\" itself to its natural state. On top of that, with the messy nature of biology any replacement for a natural organ would fall short of full functionality. The skeleton doesn't just provide structural support and anchors for muscles; it also helps produce the blood in your body in the marrow. Even the fat in the body is a living organ that produces hormones helping to regulate its activity.",
+  "kind": "string",
+  "ko": "인간 증강의 초창기는 문제투성이였다. 이식되는 이물질에 대한 신체의 거부 반응을 막으려면 면역 억제제가 필요했고, 몸은 계속 자연 상태로 \"복원\"되려 했다. 게다가 생물학의 지저분한 특성상 자연 장기를 대체하는 것은 무엇이든 완전한 기능에 미치지 못했다. 골격은 구조적 지지대와 근육의 닻 역할만 하는 것이 아니라 골수에서 몸의 혈액을 만드는 데도 일조한다. 몸속의 지방조차 활동을 조절하는 호르몬을 만드는 살아 있는 기관이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "880d7eb21a3e": {
+  "en": "Thus, the process was limited by the capacity of the human body to accept and deal with these changes. Biology is redundant and flexible, so replacing a few bones won't impact the body's functioning too badly. But every addition and change would add up, ultimately severely limiting the body's capacity for augmentation.",
+  "kind": "string",
+  "ko": "그래서 이 과정은 이런 변화를 받아들이고 처리하는 인체의 용량에 의해 제한되었다. 생물학은 중복적이고 유연하므로 뼈 몇 개를 바꾸는 것은 몸의 기능에 그리 큰 영향을 주지 않는다. 하지만 추가와 변경이 하나하나 쌓이면 결국 몸의 증강 용량을 심각하게 제한하게 된다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "57a078e07d4d": {
+  "en": "Ultimately it was ",
+  "kind": "string",
+  "ko": "결국 이 한계를 우회할 방법을 찾은 것은 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "605391e86f99": {
+  "en": " who found a way around this limitation, though only at great expense... They discovered that by using a radical new form of gene therapy to reshape a person's body to not only accommodate but integrate the augmentations into their body at a cellular level, they could completely eliminate the side-effects of augmenting.",
+  "kind": "string",
+  "ko": "였다. 다만 막대한 비용이 들었다... 이들은 급진적인 새 유전자 치료로 사람의 몸을 재형성해, 증강을 수용할 뿐 아니라 세포 수준에서 몸에 통합시킴으로써 증강의 부작용을 완전히 없앨 수 있다는 것을 발견했다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "730f9de4cf30": {
+  "en": "The downside, of course, is the extreme expense and complexity of the process. Not only must each augment be tailored for its intended recipient and a custom genetic therapy program developed, but to truly avoid any side-effects this program must take into account the interactions between augmentations when multiple are installed. The combinatoric explosion in complexity leads to exponentially increasing costs when more than one augment is installed at the same time. Despite this most still prefer to install as many as possible at once, because in addition the radical transformation their body undergoes leaves them relearning to use their body for weeks or even months afterward.",
+  "kind": "string",
+  "ko": "물론 단점은 이 과정의 엄청난 비용과 복잡성이다. 증강마다 대상자에 맞게 맞춤 제작해야 하고 맞춤 유전자 치료 프로그램도 개발해야 할 뿐 아니라, 부작용을 진정으로 피하려면 이 프로그램이 여러 개를 설치할 때 증강 사이의 상호작용까지 고려해야 한다. 복잡성의 조합적 폭발 때문에 한 번에 둘 이상의 증강을 설치하면 비용이 기하급수적으로 늘어난다. 그런데도 대부분은 가능한 한 많이 한꺼번에 설치하기를 선호한다. 몸이 겪는 급진적인 변화 때문에 이후 몇 주, 심지어 몇 달 동안 몸 쓰는 법을 다시 익혀야 하기 때문이다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "03741de0e0cd": {
+  "en": "In the end humanity is left with the theoretical capacity to transform themselves to the limits of their imagininations, but the practical reality that the expense of even basic augmentations is beyond 95% of the population.",
+  "kind": "string",
+  "ko": "결국 인류에게는 자신을 상상력의 한계까지 변모시킬 이론적 능력이 남았지만, 가장 기본적인 증강조차 비용이 인구의 95%의 감당 범위를 넘어선다는 현실이 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "423e5268d8e2": {
+  "en": "There is a legend of a powerful augment, known as the ",
+  "kind": "string",
+  "ko": "전설에 따르면 강력한 증강이 하나 있는데, 그 이름은 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "20c4060f370d": {
+  "en": "\"Red Pill\"",
+  "kind": "string",
+  "ko": "\"Red Pill\"",
+  "source": "Literature/Literatures.tsx"
+ },
+ "b71c049cad78": {
+  "en": ", that can only be found deep within the darknet. The mysterious faction ",
+  "kind": "string",
+  "ko": "이며 다크넷 깊은 곳에서만 찾을 수 있다. 수수께끼의 팩션 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "eb5dbbcafa50": {
+  "en": " has been searching for it for years, hoping to monopolize it one day.",
+  "kind": "string",
+  "ko": "는 언젠가 그것을 독점하기를 바라며 수년 동안 그것을 찾아 왔다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "dd950a10ab7e": {
+  "en": "However, the legendary augment is hidden in the depths of a labyrinth. You will need to delve far into the dark in order to find these mysterious servers, and defeat their protections to gain their secret augments.",
+  "kind": "string",
+  "ko": "하지만 그 전설의 증강은 미궁 깊은 곳에 숨겨져 있다. 이 수수께끼의 서버를 찾으려면 어둠 속 깊이 파고들어야 하고, 그 방어를 무너뜨려야 비밀 증강을 얻을 수 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "022a46d9b5e8": {
+  "en": "The darknet itself is an extremely unstable network of servers. They will continually shift locations, restart, or even go offline. Some parts of the net are islands that can only be reached by riding on a moving server. In addition, these darknet servers cannot be accessed from a distance: you must build a script that can copy itself - or bring code along from home - in order to progress into the deeper layers of the 'net.",
+  "kind": "string",
+  "ko": "다크넷 자체는 극도로 불안정한 서버 네트워크다. 서버는 계속 위치를 바꾸고, 재시작하고, 심지어 오프라인이 되기도 한다. 넷의 일부는 움직이는 서버에 편승해야만 닿을 수 있는 섬이다. 게다가 이 다크넷 서버는 멀리서는 접근할 수 없다. 'net의 더 깊은 층으로 나아가려면 스스로를 복사할 수 있는 스크립트를 만들거나, 홈에서 코드를 가져가야 한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "660743768e44": {
+  "en": "You now have permanent access to the Darknet Navigator, allowing exploration of the 'net manually via the UI. But beware: the labyrinths further into the deep are said to only be accessible via script! Do you have the charisma and the scripting skills needed to conquer the dark?",
+  "kind": "string",
+  "ko": "이제 다크넷 내비게이터에 영구적으로 접근할 수 있어, UI로 'net을 직접 탐험할 수 있다. 하지만 조심하라. 더 깊은 곳의 미궁은 스크립트로만 접근할 수 있다고 한다! 어둠을 정복하는 데 필요한 카리스마와 스크립트 실력이 당신에게 있는가?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "19c0a5b2c5a3": {
+  "en": "For more details on the darknet and its API, see the Darknet page under Documentation ",
+  "kind": "string",
+  "ko": "다크넷과 그 API에 대한 자세한 내용은 문서 ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "7d558e9409d4": {
+  "en": " Advanced.",
+  "kind": "string",
+  "ko": " 고급의 다크넷 페이지를 참고하세요.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "4888f1ee67ce": {
+  "en": "I've heard there are valuable .cache files to find out in the dark net.",
+  "kind": "string",
+  "ko": "다크넷에 가치 있는 .cache 파일이 있다고 들었다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "288be7dc41d4": {
+  "en": "Cache the Flag",
+  "kind": "string",
+  "ko": "캐시 더 플래그",
+  "source": "Literature/Literatures.tsx"
+ },
+ "58cae13a4a8b": {
+  "en": "I ran this .cache file I found and it had crazy stuff in it!",
+  "kind": "string",
+  "ko": "찾은 .cache 파일을 실행했더니 말도 안 되는 게 들어 있었다!",
+  "source": "Literature/Literatures.tsx"
+ },
+ "fb18f43e3efc": {
+  "en": "Server offline again",
+  "kind": "string",
+  "ko": "서버가 또 오프라인",
+  "source": "Literature/Literatures.tsx"
+ },
+ "81534448f5aa": {
+  "en": "My scripts went down again when their server went offline. I'll have to do something about that.",
+  "kind": "string",
+  "ko": "서버가 오프라인이 되면서 내 스크립트도 또 멈췄다. 뭔가 대책을 세워야겠다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "be496eb13eab": {
+  "en": "Darkweb server rebooted",
+  "kind": "string",
+  "ko": "다크웹 서버 재부팅",
+  "source": "Literature/Literatures.tsx"
+ },
+ "68accfd1f6c3": {
+  "en": "Darkweb servers are known to reboot sometimes, requiring scripts to be restarted.",
+  "kind": "string",
+  "ko": "다크웹 서버는 가끔 재부팅되는 것으로 알려져 있어서 스크립트를 다시 시작해야 한다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "2b4f58e22ef0": {
+  "en": "Partial Password Jutsu",
+  "kind": "string",
+  "ko": "부분 비밀번호 술법",
+  "source": "Literature/Literatures.tsx"
+ },
+ "d010f743c53d": {
+  "en": "There is a type of server that will tell you if you get some parts of the password correct.",
+  "kind": "string",
+  "ko": "비밀번호의 일부를 맞히면 알려 주는 유형의 서버가 있다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "4b9848d20e80": {
+  "en": "Timing Attack",
+  "kind": "string",
+  "ko": "타이밍 공격",
+  "source": "Literature/Literatures.tsx"
+ },
+ "e286e187ac91": {
+  "en": "I found a server that takes much longer to respond if you get some characters in the password correct.",
+  "kind": "string",
+  "ko": "비밀번호의 글자 일부를 맞히면 응답이 훨씬 오래 걸리는 서버를 찾았다.",
+  "source": "Literature/Literatures.tsx"
+ },
+ "17e1233aa558": {
+  "en": "Raw Data?",
+  "kind": "string",
+  "ko": "원시 데이터?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "2425977c2d84": {
+  "en": "Some servers only respond with raw binary data. I wonder what each bit represents?",
+  "kind": "string",
+  "ko": "일부 서버는 원시 이진 데이터로만 응답한다. 각 비트가 무엇을 뜻할까?",
+  "source": "Literature/Literatures.tsx"
+ },
+ "413ba69700ed": {
+  "en": "Dog Name Ideas",
+  "kind": "string",
+  "ko": "강아지 이름 아이디어",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1119b6a7cfb9": {
+  "en": "What should I name my dog? Maybe ",
+  "kind": "string",
+  "ko": "내 개 이름을 뭐라고 지을까? 이런 건 어떨까: ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1c2dbda36517": {
+  "en": "Factory Default",
+  "kind": "string",
+  "ko": "공장 초기값",
+  "source": "Literature/Literatures.tsx"
+ },
+ "dd4656a1dc34": {
+  "en": "The factory default is usually one of ",
+  "kind": "string",
+  "ko": "공장 초기값은 보통 다음 중 하나다: ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1438b3212056": {
+  "en": "Try the best new thing in web surfing: the Stasis Link!",
+  "kind": "string",
+  "ko": "웹 서핑의 최고 신상품을 써 보세요: 정지 링크!",
+  "source": "Literature/Literatures.tsx"
+ },
+ "44bdf206b52d": {
+  "en": "Tired of the server you are on restarting or moving? You need to try our latest networking tool, the Stasis Link! ",
+  "kind": "string",
+  "ko": "접속한 서버가 계속 재시작하거나 옮겨 가서 지치셨나요? 최신 네트워킹 도구, 정지 링크를 써 보세요! ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "571b6f672cf7": {
+  "en": "With the click of a `ns.dnet.setStasisLink()`, you, too, can sleep soundly knowing that that server is not gonna go anywhere. ",
+  "kind": "string",
+  "ko": "`ns.dnet.setStasisLink()` 한 번 클릭으로 당신도 그 서버가 어디로도 가지 않는다는 것을 알고 마음 편히 잠들 수 있습니다. ",
+  "source": "Literature/Literatures.tsx"
+ },
+ "a24bc29dedd6": {
+  "en": "Limited time only! While `ns.dnet.getStasisLinkLimit()` lasts!",
+  "kind": "string",
+  "ko": "한정 기간만! `ns.dnet.getStasisLinkLimit()`이 남아 있는 동안만!",
+  "source": "Literature/Literatures.tsx"
+ },
+ "1a3b1c3a3765": {
+  "en": "There's something out there",
+  "kind": "string",
+  "ko": "저 바깥에 무언가 있다",
+  "source": "Literature/Literatures.tsx"
+ },
+ "6d3147f84bf6": {
+  "en": "If you go deep enough into the dark net, they say there's a lost server out there with special files on it. I wonder how you can get there? It may even be deeper than the airgaps around this IP block...",
+  "kind": "string",
+  "ko": "다크넷 깊숙이 들어가면 특별한 파일이 든 잃어버린 서버가 있다고들 한다. 어떻게 거기에 갈 수 있을까? 이 IP 대역을 둘러싼 에어 갭보다도 더 깊은 곳일지도 모른다...",
+  "source": "Literature/Literatures.tsx"
+ },
+ "69148bd44ffa": {
+  "en": "If I ever find it, I'll set down a stasis link next to it and charge tickets for admission!",
+  "kind": "string",
+  "ko": "내가 그걸 찾으면 그 옆에 정지 링크를 놓고 입장권을 팔 거야!",
+  "source": "Literature/Literatures.tsx"
+ }
+}

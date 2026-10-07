@@ -1,0 +1,31 @@
+{
+  "sources": [
+    "^(?!ui/Enums\\.ts$).*Enums\\.ts$",
+    "^DarkNet/(?!ui/)",
+    "^DarkNet/ui/dnetStyles\\.ts$",
+    "^Go/boardState/asciiArt\\.ts$",
+    "^ui/Apr1\\.tsx$",
+    "^Constants\\.ts$",
+    "^utils/APIBreaks/",
+    "^DevMenu",
+    "^Exploits/Exploit\\.ts$",
+    "Styles\\.ts$",
+    ".css$",
+    "^utils/v[12]APIBreak.ts$",
+    "^doc:Changelog"
+  ],
+  "texts": ["Numeric Display", "Remote API", "Key Binding"],
+  "include": [
+    "overwrite",
+    "completely wipe",
+    "disabled"
+  ],
+  "regex": [
+    "^calc\\(",
+    "^rgb\\(",
+    "^rotate\\(",
+    "^#[0-9a-fA-F]{3,8}\\b",
+    "\\bsolid \\d+px\\b",
+    "cubic-bezier"
+  ]
+}
