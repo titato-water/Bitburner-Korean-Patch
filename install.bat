@@ -50,7 +50,7 @@ node apply.js
 if errorlevel 1 (
   echo.
   echo [오류] 패치 적용에 실패했습니다. 위의 메시지를 확인하세요.
-  echo 게임이 올바르게 설치되어 있는지, 버전이 41.4.0인지 확인해 보세요.
+  echo 게임이 올바르게 설치되어 있는지, 버전이 v3.0.1인지 확인해 보세요.
   echo.
   pause
   exit /b 1

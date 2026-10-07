@@ -17,7 +17,7 @@ Steam 업데이트가 번들을 덮어쓰면 `node extract.js && node apply.js`�
 `BITBURNER_DIR`로 게임 설치 경로를 바꿀 수 있다.
 
 ## 현재 상태
-- 번역 완료: ui, game, story, docs 전부 (Bitburner 41.4.0 기준). 폰트는 D2Coding 번들.
+- 번역 완료: ui, game, story, docs 전부 (Bitburner v3.0.1 기준. 게임 폴더의 `version` 파일 `41.4.0`은 게임이 아니라 Electron 버전이다. 게임 버전은 `resources/app/package.json`의 `version`). 폰트는 D2Coding 번들.
 - 번역하지 않는 것: 변경 이력 문서(Changelog), NS API 레퍼런스 문서, 열거형 이름(팩션/증강/범죄 등), 다크넷 인증 응답, 개발자 메뉴, 식별자·키로 쓰이는 문자열(옵션 탭 이름, 스탯 행 이름 등 약 240개). 근거는 `exclude.json`과 `work/progress.md`의 `Ruling:` 줄.
 
 ## 크래시 주의
