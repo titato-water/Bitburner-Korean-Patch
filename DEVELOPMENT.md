@@ -29,3 +29,6 @@ Steam 업데이트가 번들을 덮어쓰면 `node extract.js && node apply.js`�
 
 ## 릴리스 만들기
 `pwsh tools/build-release.ps1` — 공식 포터블 `node.exe`를 받아 체크섬을 검증하고, `node_modules`와 함께 `dist/bitburner-ko.zip`으로 묶는다 (PowerShell 7 필요, `dist/`와 `node/`는 git에 올리지 않는다). 만든 zip은 GitHub 릴리스에 `bitburner-ko.zip` 이름 그대로 올린다 (README의 직접 다운로드 링크가 이 이름을 쓴다).
+
+## 게임 업데이트 감시
+`.github/workflows/check-upstream.yml`이 매일 Bitburner 최신 릴리스를 확인한다. `apply.js`의 `SUPPORTED_GAME_VERSION`보다 새 버전이 나오면 `upstream-update` 라벨의 이슈를 자동으로 만든다 (같은 버전의 이슈가 이미 있으면 만들지 않는다). 지원 버전을 올릴 때는 `apply.js`의 `SUPPORTED_GAME_VERSION`과 README의 지원 버전을 함께 고친다. 시험하려면 Actions 탭에서 `test_latest`에 가짜 버전(예: `v9.9.9`)을 넣고 수동 실행한다.
