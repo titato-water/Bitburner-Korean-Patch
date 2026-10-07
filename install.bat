@@ -8,14 +8,21 @@ echo  Bitburner 한글패치 설치
 echo ==============================
 echo.
 
-where node > nul 2>&1
-if errorlevel 1 (
-  echo [오류] Node.js가 설치되어 있지 않습니다.
-  echo https://nodejs.org 에서 LTS 버전을 설치한 뒤 이 파일을 다시 실행하세요.
-  echo 설치 직후라면 이 창을 닫고 다시 실행해야 합니다.
-  echo.
-  pause
-  exit /b 1
+rem 동봉된 node가 있으면 그것을 쓰고, 없으면 설치된 Node.js를 쓴다
+set "NODE=%~dp0node\node.exe"
+set "BUNDLED=1"
+if not exist "%NODE%" (
+  set "BUNDLED=0"
+  set "NODE=node"
+  where node > nul 2>&1
+  if errorlevel 1 (
+    echo [오류] Node.js를 찾을 수 없습니다.
+    echo 릴리스의 bitburner-ko.zip에는 Node.js가 들어 있습니다. 그 파일을 받아 다시 실행하세요.
+    echo 소스를 직접 받았다면 https://nodejs.org 에서 LTS 버전을 설치한 뒤 다시 실행하세요.
+    echo.
+    pause
+    exit /b 1
+  )
 )
 
 rem 게임이 기본 경로에 없고 BITBURNER_DIR도 없으면 경로를 묻는다
@@ -28,6 +35,12 @@ if not defined BITBURNER_DIR (
 )
 
 if not exist "node_modules\acorn" (
+  if "%BUNDLED%"=="1" (
+    echo [오류] node_modules 폴더가 없습니다. 릴리스의 bitburner-ko.zip을 다시 받아 압축을 푼 뒤 실행하세요.
+    echo.
+    pause
+    exit /b 1
+  )
   echo 필요한 구성요소를 설치합니다. 잠시 기다려 주세요...
   call npm install
   if errorlevel 1 (
@@ -46,7 +59,7 @@ if not errorlevel 1 (
 )
 
 echo.
-node apply.js
+"%NODE%" apply.js
 if errorlevel 1 (
   echo.
   echo [오류] 패치 적용에 실패했습니다. 위의 메시지를 확인하세요.

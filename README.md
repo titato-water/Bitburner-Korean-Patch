@@ -9,22 +9,23 @@
 |---|---|
 | 지원 게임 버전 | **Bitburner v3.0.1** (게임 왼쪽 사이드바 맨 위에 표시되는 버전) |
 | 지원 환경 | Windows + Steam |
-| 필요한 것 | [Node.js](https://nodejs.org/) 18 이상 |
+| 필요한 것 | 없음 (릴리스 zip에 Node.js가 들어 있어 따로 설치하지 않아도 됩니다) |
 | 되돌리기 | 언제든 `restore.bat` 한 번으로 원본 복원 |
 
 > 게임 파일을 배포하지 않습니다. 내 컴퓨터에 설치된 게임에 번역을 적용하는 방식이라 게임 데이터와 세이브는 그대로입니다.
 
 ## 3분 설치
 
-1. **[최신 릴리스](https://github.com/titato-water/Bitburner-Korean-Patch/releases/latest)에서 `bitburner-ko.zip`을 받아 압축을 풉니다.**
-   (`Code` → `Download ZIP`으로 받아도 되지만, 그 경우 설치 때 `install.bat`이 필요한 구성요소를 인터넷에서 받습니다.)
-2. [Node.js](https://nodejs.org/) LTS를 설치합니다. 이미 있다면 건너뜁니다.
-3. **Bitburner를 완전히 종료합니다.**
-4. 압축을 푼 폴더의 **`install.bat`을 더블클릭**합니다.
-5. `적용이 끝났습니다`가 나오면 게임을 실행합니다.
+1. **[여기를 눌러 `bitburner-ko.zip`을 받고](https://github.com/titato-water/Bitburner-Korean-Patch/releases/latest/download/bitburner-ko.zip) 압축을 풉니다.** (약 40MB, 따로 설치할 프로그램은 없습니다.)
+2. **Bitburner를 완전히 종료합니다.**
+3. 압축을 푼 폴더의 **`install.bat`을 더블클릭**합니다.
+4. `적용이 끝났습니다`가 나오면 게임을 실행합니다.
 
 되돌리려면 게임을 종료하고 **`restore.bat`을 더블클릭**하세요.
 게임이 기본 Steam 경로가 아닌 곳에 있으면 `install.bat`이 경로를 물어봅니다.
+
+> 반드시 zip의 압축을 **푼 뒤에** 실행하세요. 압축 파일 안에서 바로 열면 동작하지 않습니다.
+> 위 링크가 아니라 `Code` → `Download ZIP`으로 받은 소스에는 Node.js가 들어 있지 않으니, 그 경우에는 아래 "터미널로 직접 설치하기"를 따르세요.
 
 ## 번역 범위
 - **번역됨:** 메뉴와 화면 문구, 게임 내 문서, 스토리와 문헌
@@ -32,7 +33,7 @@
 - 코드에서 키로도 쓰이는 일부 문자열(옵션 탭 이름 등)은 번역하면 게임이 오류를 내기 때문에 영어로 둡니다.
 
 ## 터미널로 직접 설치하기
-`install.bat`을 쓰지 않고 직접 하고 싶은 경우입니다.
+소스(`Code` → `Download ZIP` 또는 `git clone`)로 받았거나 `install.bat`을 쓰지 않고 직접 하고 싶은 경우입니다. [Node.js](https://nodejs.org/) 18 이상(LTS 권장)이 필요합니다. 릴리스 zip을 받았다면 이 방법은 필요 없습니다.
 
 ```
 npm install        # 최초 1회 (zip에 node_modules가 들어 있다면 생략 가능)
@@ -64,8 +65,8 @@ Steam 업데이트가 게임 파일을 원본으로 되돌립니다. Bitburner�
 **`패치된 번들인데 .orig 백업이 없습니다`라는 오류가 납니다.**
 백업 파일이 지워진 경우입니다. Steam에서 Bitburner → 속성 → 설치된 파일 → `게임 파일 무결성 검사`를 실행해 원본을 복구한 뒤, 다시 적용하세요.
 
-**`node`를 찾을 수 없다고 나옵니다.**
-Node.js가 설치되지 않았거나 설치 후 창을 다시 열지 않은 경우입니다. 설치 후 `install.bat`을 다시 실행하세요.
+**`Node.js를 찾을 수 없습니다`라고 나옵니다.**
+릴리스 zip의 `node` 폴더가 빠진 경우입니다(압축을 푸는 도중 일부가 빠졌거나, 소스 zip을 받은 경우). 위 "3분 설치"의 링크로 `bitburner-ko.zip`을 다시 받아 압축을 풀고 실행하세요.
 
 **글자가 네모(□)로 보이거나 폰트가 이상합니다.**
 `font/` 폴더의 `D2Coding.ttf`, `D2CodingBold.ttf`가 있는지 확인하고 다시 적용하세요.
@@ -83,5 +84,6 @@ Node.js가 설치되지 않았거나 설치 후 창을 다시 열지 않은 경�
 
 ## 크레딧과 라이선스
 - Bitburner: [bitburner-official/bitburner-src](https://github.com/bitburner-official/bitburner-src) 개발진의 게임입니다. 이 프로젝트는 비공식 팬 번역이며 게임 개발진과 무관합니다.
+- Node.js: 릴리스 zip의 `node` 폴더에 [Node.js](https://nodejs.org/) 공식 배포본(`node.exe`)이 그대로 들어 있습니다. 라이선스는 `node/LICENSE`를 참고하세요.
 - 폰트: Naver의 [D2Coding](https://github.com/naver/d2codingfont) (SIL Open Font License 1.1, `font/OFL.txt`)
 - 이 저장소의 도구 코드와 번역: MIT ([LICENSE](LICENSE))

@@ -1,3 +1,5 @@
 node_modules/
 work/
 *.orig
+node/
+dist/

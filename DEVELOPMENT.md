@@ -26,3 +26,6 @@ Steam 업데이트가 번들을 덮어쓰면 `node extract.js && node apply.js`�
 ## 한계
 - 번역은 `.orig`(원본 번들)에서 매번 다시 만든다. 게임이 업데이트되면 `extract.js`로 변경된 원문만 미번역으로 돌아온다.
 - 문서/스토리의 조각난 JSX 문장은 조사를 고정해서 번역했다. 원문의 요소(팩션 이름 등)가 바뀌면 어색해질 수 있다.
+
+## 릴리스 만들기
+`pwsh tools/build-release.ps1` — 공식 포터블 `node.exe`를 받아 체크섬을 검증하고, `node_modules`와 함께 `dist/bitburner-ko.zip`으로 묶는다 (PowerShell 7 필요, `dist/`와 `node/`는 git에 올리지 않는다). 만든 zip은 GitHub 릴리스에 `bitburner-ko.zip` 이름 그대로 올린다 (README의 직접 다운로드 링크가 이 이름을 쓴다).
